@@ -17,11 +17,11 @@ semilla = 42
 
 # Almacenando los valores de la precisión
 precisiones = []
-# mejor_precision = 0
+mejor_precision = 0
 # mejor_modelo = None
 
 for i in range(n_iteraciones):
-    X_train, y_train, X_test, y_test = train_test_split(X, y, test_size=tam_prueba, random_state=semilla+i)
+    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=tam_prueba, random_state=semilla+i)
 
     # Instanciar el modelo
     modelo = RandomForestClassifier()
@@ -30,8 +30,11 @@ for i in range(n_iteraciones):
     # Evaluar la precisión del modelo
     precision = modelo.score(X_test, y_test)
     precisiones.append(precision)
+    
+    # precision > mejor_precision
+    #     mejor_precision=precision
+    #     mejor_modelo = modelo
 
-# n = len(precisiones)
-# for i in range(n):
-#     print(precisiones[i])
-# [90, 50, 80, 70, 99, 80]
+n = len(precisiones)
+for i in range(n):
+    print(precisiones[i])
