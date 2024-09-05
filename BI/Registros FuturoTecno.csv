@@ -1,0 +1,1645 @@
+Fecha;País;Marca;Cliente;Ingresos;Gastos
+1/01/2020;Chill;NexTec;Instituciones educativas;4613,76;$3456
+1/01/2020;Chile;Innovatech;Consumidores finales;33615,00;$14566,5
+1/01/2020;Chile;Cybernova;Sector público;115952,32;$86274,045
+1/01/2020;   México;NeuroNet;Pequeñas y medianas empresas;132046,20;$111150
+1/01/2020;Uruguay;NeuroNet;Grandes clientes;19914,88;$15398,1
+3/01/2020;México;Cybernova;Sector público;598878,00;$453960
+3/01/2020;Argentina;Innovatech;Pequeñas y medianas empresas;667715,40;$562050
+4/01/2020;Perú;NexTec;Sector público;45046,80;$23220
+4/01/2020;URUGUAY;Cybernova;Sector público;125697,31;$67579,2
+5/01/2020;Argentina;OmegaTech;Consumidores finales;193895,31;$179245,44
+5/01/2020;Uruguay;NexTec;Grandes clientes;23523,05;$18970,2
+7/01/2020;México;Innovatech;Consumidores finales;249243,75;$227880
+7/01/2020;México;Innovatech;Grandes clientes;4590,00;$4050
+8/01/2020;Perú;Cybernova;Consumidores finales;214808,37;$184248
+9/01/2020;México;NeuroNet;Pequeñas y medianas empresas;418586,45;$352345,5
+10/01/2020;México;NexTec;Consumidores finales;314921,25;$304668
+10/01/2020;Uruguay;Innovatech;Sector público;16599,24;$8469
+11/01/2020;Argentina;NexTec;Consumidores finales;853357,59;$788881,68
+11/01/2020;Uruguay;Innovatech;Pequeñas y medianas empresas;1883912,90;$1688094
+13/01/2020;Uruguay;NeuroNet;Consumidores finales;39440,77;$17091
+14/01/2020;México;Innovatech;Instituciones educativas;112706,10;$75137,4
+14/01/2020;Perú;NexTec;Sector público;26631,36;$13315,68
+15/01/2020;México;NeuroNet;Grandes clientes;68646,29;$53077,032
+16/01/2020;Chile;Cybernova;Sector público;29326,35;$22524,075
+17/01/2020;Chile;NeuroNet;Consumidores finales;113345,48;$96228
+17/01/2020;Uruguay;OmegaTech;Pequeñas y medianas empresas;325306,80;$297900
+18/01/2020;Argentina;NexTec;Instituciones educativas;30270,24;$22932
+19/01/2020;Argentina;OmegaTech;Grandes clientes;37634,51;$33206,922
+20/01/2020;Perú;NeuroNet;Instituciones educativas;49630,32;$33086,88
+20/01/2020;Perú;Cybernova;Consumidores finales;549917,31;$354042
+20/01/2020;Chile;NexTec;Grandes clientes;147622,54;$119050,4385
+21/01/2020;Perú;Innovatech;Consumidores finales;271753,38;$265998,6
+21/01/2020;Perú;Innovatech;Grandes clientes;17444,70;$14377,5
+22/01/2020;Perú;Cybernova;Instituciones educativas;12163,00;$9009,63
+23/01/2020;México;NeuroNet;Grandes clientes;3852,36;$3321
+24/01/2020;México;OmegaTech;Sector público;55172,72;$30995,91
+24/01/2020;Argentina;Cybernova;Grandes clientes;48100,38;$38377,962
+24/01/2020;México;Innovatech;Grandes clientes;42070,30;$33927,66
+26/01/2020;Argentina;NeuroNet;Pequeñas y medianas empresas;590733,00;$579150
+27/01/2020;Argentina;NexTec;Sector público;92277,21;$53649,54
+28/01/2020;Perú;Innovatech;Sector público;401126,99;$342505,8
+28/01/2020;México;Innovatech;Sector público;118571,07;$68936,67
+29/01/2020;Chile;OmegaTech;Sector público;721299,60;$615888
+29/01/2020;Uruguay;Cybernova;Pequeñas y medianas empresas;547649,10;$490725
+30/01/2020;Argentina;NexTec;Consumidores finales;311139,07;$301008,96
+30/01/2020;Chile;NexTec;Sector público;2784216,46;$2377327,68
+31/01/2020;Argentina;Cybernova;Instituciones educativas;16854,08;$11236,05
+31/01/2020;Argentina;NexTec;Instituciones educativas;99493,07;$76239,9
+31/01/2020;Perú;OmegaTech;Instituciones educativas;72371,63;$56102,04
+31/01/2020;Chile;NexTec;Sector público;67229,73;$34654,5
+31/01/2020;Uruguay;Cybernova;Sector público;14776,78;$12132
+1/02/2020;Uruguay;Innovatech;Sector público;8308,57;$6313,5
+1/02/2020;Argentina;OmegaTech;Sector público;821303,85;$670452,12
+3/02/2020;Perú;NeuroNet;Consumidores finales;99069,23;$85860
+3/02/2020;Argentina;NeuroNet;Grandes clientes;14346,88;$11092,95
+5/02/2020;Argentina;NeuroNet;Sector público;81841,97;$43074,72
+5/02/2020;Perú;NexTec;Sector público;599248,44;$483865,2
+6/02/2020;Chile;Innovatech;Instituciones educativas;59847,12;$39898,08
+8/02/2020;Chile;NexTec;Consumidores finales;309099,32;$292239,36
+8/02/2020;Argentina;NexTec;Sector público;1043280,00;$807300
+8/02/2020;Uruguay;NeuroNet;Sector público;617678,27;$498746,43
+8/02/2020;México;NeuroNet;Pequeñas y medianas empresas;611914,50;$586125
+8/02/2020;Chile;NeuroNet;Grandes clientes;24942,06;$19691,1
+9/02/2020;Uruguay;Cybernova;Instituciones educativas;42725,08;$32739,525
+9/02/2020;México;NexTec;Grandes clientes;12046,71;$9219,42
+10/02/2020;Perú;NexTec;Sector público;22620,96;$12294
+11/02/2020;Argentina;NeuroNet;Instituciones educativas;14612,40;$9741,6
+11/02/2020;Perú;NexTec;Sector público;1198127,70;$988930,8
+12/02/2020;México;NexTec;Instituciones educativas;29590,11;$19926
+12/02/2020;Uruguay;Cybernova;Grandes clientes;21955,75;$18095,4
+13/02/2020;Uruguay;OmegaTech;Consumidores finales;730620,00;$607875,84
+13/02/2020;Uruguay;OmegaTech;Pequeñas y medianas empresas;289564,85;$262287
+14/02/2020;Uruguay;Cybernova;Consumidores finales;224120,77;$188352
+14/02/2020;Argentina;NexTec;Sector público;15864,97;$13025,43
+15/02/2020;Argentina;OmegaTech;Sector público;85249,89;$43494,84
+15/02/2020;Uruguay;Cybernova;Grandes clientes;25468,67;$20990,664
+16/02/2020;México;Cybernova;Sector público;1828,81;$1319,49
+16/02/2020;Uruguay;Cybernova;Sector público;53048,63;$43553,88
+16/02/2020;Argentina;OmegaTech;Grandes clientes;21266,39;$16110,9
+17/02/2020;Chile;NexTec;Sector público;3038,73;$2359,26
+17/02/2020;Uruguay;Cybernova;Sector público;116626,44;$66265,02
+17/02/2020;Uruguay;Cybernova;Pequeñas y medianas empresas;431040,77;$386237,25
+20/02/2020;Perú;NexTec;Instituciones educativas;3227,58;$2502
+20/02/2020;México;NeuroNet;Sector público;94639,64;$54390,6
+20/02/2020;México;Innovatech;Pequeñas y medianas empresas;185992,20;$180225
+20/02/2020;Uruguay;NexTec;Grandes clientes;124228,74;$94112,685
+21/02/2020;Argentina;NexTec;Pequeñas y medianas empresas;254191,50;$222975
+24/02/2020;Perú;NeuroNet;Instituciones educativas;14111,60;$9902,88
+24/02/2020;Chile;NexTec;Instituciones educativas;12503,29;$9365,76
+24/02/2020;Perú;Cybernova;Grandes clientes;8190,07;$6204,6
+25/02/2020;México;OmegaTech;Consumidores finales;502678,21;$326898
+26/02/2020;Argentina;Innovatech;Sector público;15937,74;$8757
+28/02/2020;Chile;NexTec;Pequeñas y medianas empresas;765021,35;$685503
+28/02/2020;Argentina;OmegaTech;Grandes clientes;9849,60;$7387,2
+2/03/2020;Uruguay;NexTec;Sector público;118913,76;$63252
+3/03/2020;Chile;NexTec;Sector público;1153115,55;$941318,82
+4/03/2020;México;Cybernova;Consumidores finales;84214,04;$71496
+5/03/2020;Chile;NexTec;Instituciones educativas;43015,05;$33345
+6/03/2020;Chile;Innovatech;Grandes clientes;83555,22;$66666,402
+8/03/2020;Perú;Cybernova;Sector público;15110,55;$11992,5
+10/03/2020;Perú;Innovatech;Sector público;47050,11;$25295,76
+11/03/2020;México;NeuroNet;Sector público;8871,16;$6741
+12/03/2020;México;Cybernova;Instituciones educativas;35794,58;$25119
+12/03/2020;México;Cybernova;Sector público;2629074,42;$1992884,4
+12/03/2020;Chile;Innovatech;Pequeñas y medianas empresas;206193,60;$199800
+12/03/2020;México;NexTec;Pequeñas y medianas empresas;125307,00;$122850
+13/03/2020;Chile;OmegaTech;Sector público;15157,30;$12303
+14/03/2020;Chile;OmegaTech;Consumidores finales;44783,65;$37260
+16/03/2020;Chile;Cybernova;Consumidores finales;409388,91;$391507,56
+17/03/2020;Chile;NeuroNet;Sector público;635040,00;$524160
+18/03/2020;Perú;NexTec;Consumidores finales;99517,07;$87156
+18/03/2020;Argentina;NexTec;Pequeñas y medianas empresas;776506,50;$653625
+18/03/2020;Uruguay;Cybernova;Pequeñas y medianas empresas;605254,68;$560421
+19/03/2020;Perú;Cybernova;Sector público;6253,56;$4908,6
+20/03/2020;Argentina;Cybernova;Consumidores finales;400033,95;$354072,6
+21/03/2020;Uruguay;Cybernova;Consumidores finales;1757892,32;$1507800,42
+22/03/2020;Argentina;NexTec;Instituciones educativas;8042,76;$6093
+22/03/2020;Argentina;OmegaTech;Consumidores finales;93426,49;$78516
+22/03/2020;Uruguay;Cybernova;Grandes clientes;68963,40;$60142,5
+23/03/2020;Perú;OmegaTech;Instituciones educativas;103661,98;$71245,35
+23/03/2020;Chile;OmegaTech;Sector público;172695,60;$145782
+24/03/2020;Chile;OmegaTech;Sector público;367479,00;$287352
+26/03/2020;Argentina;OmegaTech;Grandes clientes;18715,32;$16321,5
+31/03/2020;Argentina;NeuroNet;Sector público;655735,50;$541242
+31/03/2020;Perú;NeuroNet;Sector público;1517,04;$1260
+31/03/2020;Argentina;NeuroNet;Sector público;119750,40;$101088
+31/03/2020;Argentina;NexTec;Pequeñas y medianas empresas;618178,18;$559944
+1/04/2020;Argentina;NexTec;Sector público;12718,08;$6624
+1/04/2020;México;Cybernova;Sector público;16093,67;$12100,5
+1/04/2020;Uruguay;NeuroNet;Grandes clientes;13145,54;$10834,236
+2/04/2020;Perú;NeuroNet;Instituciones educativas;27137,70;$19044
+2/04/2020;Perú;Cybernova;Sector público;2063,88;$1620
+3/04/2020;Chile;NexTec;Sector público;1489,57;$1156,5
+3/04/2020;Chile;OmegaTech;Sector público;19559,34;$11241
+3/04/2020;Uruguay;Cybernova;Grandes clientes;73205,66;$61690,167
+4/04/2020;Uruguay;Cybernova;Sector público;442965,60;$350064
+5/04/2020;Perú;NexTec;Sector público;22620,96;$12294
+6/04/2020;Argentina;Cybernova;Grandes clientes;14581,56;$11391,84
+7/04/2020;Chile;OmegaTech;Consumidores finales;223370,48;$191592
+7/04/2020;Chile;Cybernova;Pequeñas y medianas empresas;932062,95;$853537,5
+7/04/2020;Chile;OmegaTech;Pequeñas y medianas empresas;675638,06;$611991
+8/04/2020;Argentina;NexTec;Instituciones educativas;8696,16;$6039
+8/04/2020;Chile;NeuroNet;Grandes clientes;18922,90;$15260,4
+10/04/2020;México;Cybernova;Pequeñas y medianas empresas;318622,68;$288607,5
+10/04/2020;Chile;OmegaTech;Grandes clientes;95528,09;$75416,913
+11/04/2020;Chile;NexTec;Sector público;165186,00;$129168
+12/04/2020;Argentina;Cybernova;Instituciones educativas;8696,16;$6039
+13/04/2020;Argentina;OmegaTech;Consumidores finales;234934,27;$217183,68
+15/04/2020;México;Innovatech;Sector público;9596,16;$4896
+16/04/2020;Argentina;NeuroNet;Instituciones educativas;97032,13;$66008,25
+16/04/2020;México;OmegaTech;Sector público;30701,16;$16506
+17/04/2020;Uruguay;Cybernova;Sector público;672036,75;$504270
+18/04/2020;Uruguay;NexTec;Sector público;30513,62;$22942,575
+19/04/2020;Perú;NexTec;Sector público;30990,72;$16842,78
+19/04/2020;Argentina;Innovatech;Pequeñas y medianas empresas;2003146,20;$1686150
+20/04/2020;Chile;Innovatech;Instituciones educativas;29364,53;$23031
+20/04/2020;Chile;Innovatech;Sector público;23751,90;$12501
+21/04/2020;Uruguay;NeuroNet;Pequeñas y medianas empresas;242902,80;$206550
+22/04/2020;Argentina;NexTec;Sector público;7114,34;$5841
+24/04/2020;Chile;Innovatech;Instituciones educativas;25492,32;$17703
+24/04/2020;Perú;Cybernova;Consumidores finales;241328,21;$225601,2
+26/04/2020;Uruguay;Cybernova;Instituciones educativas;15826,83;$11345,4
+26/04/2020;Uruguay;Cybernova;Grandes clientes;19914,88;$15398,1
+27/04/2020;Argentina;Cybernova;Instituciones educativas;20234,61;$13626
+27/04/2020;Uruguay;NeuroNet;Instituciones educativas;46029,06;$34870,5
+28/04/2020;Uruguay;Innovatech;Consumidores finales;282005,91;$263628
+29/04/2020;Argentina;NeuroNet;Consumidores finales;937440,00;$779950,08
+29/04/2020;Uruguay;NeuroNet;Sector público;43931,16;$24138
+29/04/2020;Chile;Innovatech;Sector público;119153,97;$59576,985
+29/04/2020;Perú;OmegaTech;Sector público;23988,60;$18624,69
+29/04/2020;Argentina;NeuroNet;Grandes clientes;11143,20;$9286,002
+30/04/2020;México;Cybernova;Consumidores finales;69897,65;$59341,68
+2/05/2020;México;NexTec;Grandes clientes;11473,06;$8780,4
+3/05/2020;Chile;NexTec;Consumidores finales;349462,43;$290752,74
+3/05/2020;Perú;NexTec;Sector público;17717,40;$10422
+3/05/2020;Perú;Cybernova;Pequeñas y medianas empresas;1010671,99;$957075,75
+3/05/2020;Argentina;Cybernova;Grandes clientes;27643,90;$22056,3
+3/05/2020;Uruguay;OmegaTech;Grandes clientes;74058,36;$56677,32
+4/05/2020;México;NeuroNet;Consumidores finales;246281,54;$232848
+5/05/2020;México;NexTec;Instituciones educativas;2618,55;$1918,35
+5/05/2020;Chile;NexTec;Consumidores finales;116162,31;$102816
+5/05/2020;Uruguay;Cybernova;Sector público;47684,17;$35852,76
+5/05/2020;México;Cybernova;Sector público;734718,60;$620217
+6/05/2020;Perú;OmegaTech;Instituciones educativas;79627,21;$56473,2
+6/05/2020;Perú;OmegaTech;Consumidores finales;1131233,27;$1012028,04
+6/05/2020;Uruguay;NexTec;Sector público;68856,48;$34776
+7/05/2020;Perú;NeuroNet;Pequeñas y medianas empresas;320625,00;$281250
+7/05/2020;Uruguay;Innovatech;Pequeñas y medianas empresas;547649,10;$490725
+8/05/2020;México;OmegaTech;Instituciones educativas;34218,29;$23762,7
+8/05/2020;Perú;Innovatech;Sector público;13962,56;$10840,5
+8/05/2020;México;NeuroNet;Pequeñas y medianas empresas;132046,20;$111150
+8/05/2020;Chile;OmegaTech;Pequeñas y medianas empresas;318697,20;$288675
+8/05/2020;México;NeuroNet;Grandes clientes;7302,96;$5589
+9/05/2020;Argentina;NexTec;Grandes clientes;2026,04;$1688,364
+10/05/2020;Argentina;Innovatech;Instituciones educativas;74674,13;$57886,92
+11/05/2020;Perú;Cybernova;Grandes clientes;16686,00;$12514,5
+11/05/2020;Uruguay;Innovatech;Grandes clientes;46674,38;$35720,19
+12/05/2020;México;Cybernova;Sector público;19530,72;$11097
+12/05/2020;Uruguay;Innovatech;Grandes clientes;8978,69;$7014,6
+13/05/2020;México;Innovatech;Sector público;27165,60;$15435
+14/05/2020;Argentina;NexTec;Consumidores finales;317488,85;$307152
+15/05/2020;Argentina;NeuroNet;Pequeñas y medianas empresas;234522,00;$227250
+16/05/2020;Uruguay;NexTec;Sector público;14884,70;$11191,5
+17/05/2020;Argentina;Cybernova;Sector público;27624,24;$14094
+18/05/2020;Uruguay;Cybernova;Sector público;19590,27;$11523,69
+18/05/2020;Perú;NexTec;Grandes clientes;30650,40;$22987,8
+19/05/2020;Chile;OmegaTech;Instituciones educativas;18959,13;$14697
+19/05/2020;Uruguay;NeuroNet;Consumidores finales;294111,78;$257580
+19/05/2020;México;NexTec;Pequeñas y medianas empresas;446387,22;$404336,25
+20/05/2020;México;OmegaTech;Sector público;3434,93;$2696,175
+22/05/2020;Uruguay;NeuroNet;Sector público;804334,86;$663895,44
+23/05/2020;Perú;Innovatech;Pequeñas y medianas empresas;281985,30;$252675
+24/05/2020;Perú;NeuroNet;Sector público;12450,38;$9562,5
+24/05/2020;Uruguay;Cybernova;Sector público;467410,61;$361686,78
+24/05/2020;México;Innovatech;Grandes clientes;27050,76;$22052,25
+25/05/2020;Perú;Innovatech;Grandes clientes;29074,76;$22026,33
+26/05/2020;Argentina;Cybernova;Sector público;180148,50;$140868
+26/05/2020;Argentina;NexTec;Grandes clientes;3751,92;$3126,6
+26/05/2020;Uruguay;OmegaTech;Grandes clientes;26023,46;$20544,84
+27/05/2020;México;NeuroNet;Sector público;501713,10;$384228
+29/05/2020;Uruguay;Cybernova;Sector público;29728,44;$15813
+30/05/2020;México;Innovatech;Grandes clientes;13662,00;$11137,5
+31/05/2020;Uruguay;Cybernova;Instituciones educativas;7411,50;$4941
+31/05/2020;Argentina;OmegaTech;Grandes clientes;54829,43;$41537,448
+31/05/2020;Perú;NexTec;Grandes clientes;4083,18;$3440,88
+1/06/2020;Uruguay;NeuroNet;Sector público;44936,10;$25245
+2/06/2020;Argentina;Innovatech;Instituciones educativas;150747,08;$115515
+2/06/2020;México;OmegaTech;Sector público;958797,00;$749736
+2/06/2020;Perú;Cybernova;Pequeñas y medianas empresas;180449,10;$155025
+3/06/2020;Perú;Innovatech;Instituciones educativas;20398,73;$14781,69
+3/06/2020;Argentina;Innovatech;Sector público;3206,76;$2411,1
+4/06/2020;Uruguay;OmegaTech;Instituciones educativas;114545,34;$84848,4
+4/06/2020;México;NexTec;Sector público;14335,20;$8145
+5/06/2020;Chile;Cybernova;Sector público;36142,42;$26076,78
+8/06/2020;Uruguay;NeuroNet;Consumidores finales;282005,91;$263628
+9/06/2020;México;OmegaTech;Sector público;11279,02;$8757
+9/06/2020;Uruguay;NexTec;Sector público;40997,59;$21577,68
+9/06/2020;México;NexTec;Pequeñas y medianas empresas;157734,00;$142875
+10/06/2020;Argentina;Cybernova;Grandes clientes;30757,71;$25349,76
+11/06/2020;México;OmegaTech;Pequeñas y medianas empresas;1471537,94;$1290822,75
+12/06/2020;México;Cybernova;Sector público;2492773,92;$1928932,2
+12/06/2020;Chile;OmegaTech;Grandes clientes;24942,06;$19691,1
+12/06/2020;México;Cybernova;Grandes clientes;3852,36;$3321
+13/06/2020;Uruguay;Cybernova;Instituciones educativas;15267,69;$10178,46
+14/06/2020;Chile;NexTec;Instituciones educativas;28676,70;$22230
+14/06/2020;Chile;NeuroNet;Consumidores finales;6064,62;$2628
+15/06/2020;Chile;Cybernova;Consumidores finales;198586,30;$177660
+16/06/2020;México;NexTec;Sector público;51410,62;$37857,6
+16/06/2020;Uruguay;NeuroNet;Grandes clientes;19331,68;$15932,7
+18/06/2020;Perú;Innovatech;Grandes clientes;48670,71;$40113,225
+19/06/2020;Argentina;NexTec;Grandes clientes;12086,93;$9250,2
+21/06/2020;Chile;NexTec;Sector público;9268,94;$7119
+21/06/2020;México;OmegaTech;Sector público;331808,40;$280098
+21/06/2020;Argentina;Cybernova;Sector público;16232,33;$13482
+21/06/2020;Perú;NexTec;Pequeñas y medianas empresas;481852,80;$418275
+22/06/2020;Uruguay;NeuroNet;Pequeñas y medianas empresas;430680,89;$390109,5
+23/06/2020;Chile;Cybernova;Sector público;2102,18;$1746
+24/06/2020;Perú;OmegaTech;Sector público;24251,04;$13779
+26/06/2020;Argentina;Innovatech;Sector público;30639,61;$23037,3
+28/06/2020;Uruguay;Innovatech;Instituciones educativas;84489,78;$61224,48
+28/06/2020;Perú;Innovatech;Sector público;6346,62;$4927,5
+28/06/2020;Chile;NeuroNet;Sector público;138299,81;$114152,22
+29/06/2020;Perú;NexTec;Consumidores finales;156170,47;$133952,4
+29/06/2020;Argentina;Cybernova;Pequeñas y medianas empresas;2224376,15;$2155403,25
+29/06/2020;Chile;NexTec;Grandes clientes;13706,28;$10489,5
+30/06/2020;Argentina;OmegaTech;Pequeñas y medianas empresas;557442,00;$516150
+1/07/2020;México;NeuroNet;Grandes clientes;25290,14;$21554,1
+2/07/2020;México;NexTec;Sector público;10755,36;$7920
+3/07/2020;Chile;NeuroNet;Consumidores finales;94454,57;$80190
+3/07/2020;Perú;OmegaTech;Consumidores finales;665556,62;$651462,48
+3/07/2020;Argentina;NeuroNet;Grandes clientes;20396,77;$15770,7
+4/07/2020;Uruguay;NexTec;Sector público;113056,48;$59503,41
+5/07/2020;México;Cybernova;Grandes clientes;19465,88;$16780,932
+6/07/2020;Argentina;NexTec;Consumidores finales;402527,16;$372114
+6/07/2020;Argentina;NeuroNet;Sector público;114655,94;$61642,98
+7/07/2020;Chile;Innovatech;Instituciones educativas;76054,12;$59650,29
+7/07/2020;México;OmegaTech;Sector público;2986,89;$2344,5
+8/07/2020;Perú;NexTec;Consumidores finales;60905,77;$59616
+8/07/2020;Perú;OmegaTech;Sector público;6936,62;$5215,5
+8/07/2020;México;OmegaTech;Sector público;1906437,71;$1539359,64
+8/07/2020;Perú;Cybernova;Pequeñas y medianas empresas;263557,80;$221850
+9/07/2020;Uruguay;Cybernova;Sector público;2557166,98;$2020861,44
+9/07/2020;Argentina;NeuroNet;Grandes clientes;3751,92;$3126,6
+10/07/2020;México;OmegaTech;Instituciones educativas;32284,98;$23652
+10/07/2020;Perú;Cybernova;Consumidores finales;1079959,81;$916863,84
+10/07/2020;Uruguay;NeuroNet;Consumidores finales;28282,40;$12379,5
+10/07/2020;Chile;Cybernova;Sector público;27588,56;$20527,2
+11/07/2020;Argentina;NeuroNet;Pequeñas y medianas empresas;292832,82;$262395
+12/07/2020;México;NeuroNet;Consumidores finales;774947,25;$657914,4
+12/07/2020;Uruguay;Innovatech;Sector público;71210,74;$36332,01
+12/07/2020;Perú;NexTec;Pequeñas y medianas empresas;2192430,24;$1903151,25
+13/07/2020;Perú;OmegaTech;Sector público;5309,71;$2949,84
+14/07/2020;Argentina;Cybernova;Sector público;27624,24;$14094
+15/07/2020;Uruguay;NexTec;Consumidores finales;101137,07;$84996
+15/07/2020;Argentina;NexTec;Consumidores finales;18200,05;$11380,5
+15/07/2020;México;NeuroNet;Pequeñas y medianas empresas;899974,80;$749979
+15/07/2020;México;NexTec;Pequeñas y medianas empresas;208009,62;$203931
+16/07/2020;Chile;Innovatech;Instituciones educativas;84114,45;$65205
+16/07/2020;Chile;Cybernova;Instituciones educativas;43710,26;$33883,92
+16/07/2020;Uruguay;OmegaTech;Pequeñas y medianas empresas;95882,40;$86850
+17/07/2020;Argentina;NexTec;Instituciones educativas;31654,02;$21981,96
+17/07/2020;Uruguay;Cybernova;Sector público;658324,80;$509418
+18/07/2020;Argentina;OmegaTech;Consumidores finales;186455,77;$172368
+18/07/2020;México;NeuroNet;Consumidores finales;10852,96;$6718,5
+19/07/2020;Chile;NeuroNet;Instituciones educativas;64486,75;$46227,06
+21/07/2020;Uruguay;Cybernova;Instituciones educativas;63804,51;$42536,34
+21/07/2020;Perú;NeuroNet;Sector público;222037,20;$185328
+24/07/2020;Uruguay;Innovatech;Grandes clientes;33490,51;$26164,458
+25/07/2020;Chile;Innovatech;Consumidores finales;347160,29;$294732
+25/07/2020;Chile;NeuroNet;Consumidores finales;220622,74;$185412,24
+25/07/2020;Perú;Cybernova;Consumidores finales;263373,32;$257796
+25/07/2020;Perú;Cybernova;Sector público;10867,10;$6245,46
+25/07/2020;México;Cybernova;Grandes clientes;15900,33;$12552,894
+27/07/2020;Argentina;Innovatech;Pequeñas y medianas empresas;756345,60;$656550
+28/07/2020;Uruguay;NexTec;Consumidores finales;162050,63;$138996
+29/07/2020;Uruguay;NexTec;Sector público;490549,50;$418860
+29/07/2020;Chile;Cybernova;Grandes clientes;29665,03;$25282,692
+30/07/2020;Perú;Cybernova;Sector público;432306,00;$341640
+1/08/2020;Uruguay;OmegaTech;Sector público;1587,47;$1318,5
+2/08/2020;México;OmegaTech;Grandes clientes;5705,42;$4552,2
+2/08/2020;Chile;OmegaTech;Grandes clientes;64814,14;$55239,327
+4/08/2020;Chile;Cybernova;Sector público;84031,79;$45178,38
+5/08/2020;Uruguay;Cybernova;Instituciones educativas;26378,06;$18909
+5/08/2020;Uruguay;Cybernova;Sector público;664448,40;$525096
+6/08/2020;México;NexTec;Consumidores finales;106703,49;$97557,48
+6/08/2020;México;Cybernova;Sector público;386694,00;$326430
+6/08/2020;México;Cybernova;Sector público;63409,04;$47675,97
+6/08/2020;México;NeuroNet;Grandes clientes;6853,06;$5648,13
+7/08/2020;Argentina;OmegaTech;Consumidores finales;269000,48;$263304
+8/08/2020;Uruguay;Cybernova;Instituciones educativas;22459,81;$16454,07
+8/08/2020;Uruguay;NexTec;Pequeñas y medianas empresas;195230,57;$173076,75
+9/08/2020;Argentina;Innovatech;Sector público;52862,50;$28729,62
+9/08/2020;Uruguay;OmegaTech;Grandes clientes;19134,90;$15106,5
+11/08/2020;México;NexTec;Sector público;17002,44;$9342
+11/08/2020;México;OmegaTech;Sector público;1180623,56;$885893,58
+11/08/2020;México;OmegaTech;Sector público;25343,96;$14238,18
+12/08/2020;México;NexTec;Consumidores finales;1442339,33;$1395379,44
+12/08/2020;Uruguay;Cybernova;Pequeñas y medianas empresas;75950,78;$69552
+12/08/2020;Uruguay;Cybernova;Grandes clientes;96985,45;$74988,747
+13/08/2020;Chile;OmegaTech;Sector público;52274,79;$37716,3
+14/08/2020;Argentina;NeuroNet;Grandes clientes;101454,44;$76090,833
+15/08/2020;Uruguay;NeuroNet;Instituciones educativas;137166,60;$103914,09
+15/08/2020;Perú;OmegaTech;Instituciones educativas;14966,27;$11738,25
+15/08/2020;Argentina;OmegaTech;Sector público;602741,16;$476330,4
+16/08/2020;México;Cybernova;Sector público;15172,54;$12177
+16/08/2020;Argentina;Cybernova;Sector público;2943,65;$2236,815
+17/08/2020;Perú;NeuroNet;Sector público;60882,33;$46760,625
+17/08/2020;Argentina;NeuroNet;Grandes clientes;21092,40;$15819,3
+18/08/2020;Uruguay;NexTec;Pequeñas y medianas empresas;309889,80;$274725
+19/08/2020;Uruguay;Innovatech;Instituciones educativas;15237,33;$10581,48
+19/08/2020;México;NexTec;Consumidores finales;654630,58;$555768
+20/08/2020;Chile;Cybernova;Pequeñas y medianas empresas;145535,99;$141023,25
+21/08/2020;Chile;Innovatech;Pequeñas y medianas empresas;258556,54;$219861
+22/08/2020;Argentina;NeuroNet;Sector público;3411,45;$2565
+23/08/2020;México;Cybernova;Pequeñas y medianas empresas;1863745,20;$1688175
+24/08/2020;Argentina;NeuroNet;Sector público;17361,68;$10212,75
+26/08/2020;Chile;Cybernova;Sector público;2697330,98;$2329920,45
+28/08/2020;Perú;Innovatech;Sector público;10839,07;$8149,68
+29/08/2020;Uruguay;Cybernova;Instituciones educativas;29403,00;$19602
+29/08/2020;Argentina;Innovatech;Instituciones educativas;10973,68;$7782,75
+29/08/2020;Uruguay;Cybernova;Sector público;8266,10;$6709,5
+29/08/2020;México;Cybernova;Sector público;41209,82;$23414,67
+30/08/2020;Uruguay;NexTec;Consumidores finales;114202,21;$110484
+30/08/2020;Chile;Cybernova;Sector público;37585,44;$21852
+31/08/2020;Perú;NexTec;Consumidores finales;1306806,49;$1169100
+2/09/2020;Perú;OmegaTech;Instituciones educativas;6196,50;$4590
+2/09/2020;Argentina;Cybernova;Pequeñas y medianas empresas;1642202,99;$1382325,75
+5/09/2020;Uruguay;Cybernova;Consumidores finales;223512,92;$187841,16
+5/09/2020;Perú;OmegaTech;Pequeñas y medianas empresas;180449,10;$155025
+6/09/2020;Argentina;NeuroNet;Instituciones educativas;134721,35;$95547,06
+7/09/2020;Argentina;NexTec;Pequeñas y medianas empresas;571212,00;$553500
+8/09/2020;México;NexTec;Pequeñas y medianas empresas;3043965,02;$2787513,75
+9/09/2020;Chile;NeuroNet;Instituciones educativas;31945,32;$24201
+9/09/2020;Uruguay;NeuroNet;Instituciones educativas;115847,82;$85813,2
+9/09/2020;Uruguay;OmegaTech;Pequeñas y medianas empresas;112492,80;$100800
+10/09/2020;Argentina;Innovatech;Consumidores finales;106176,20;$92988
+11/09/2020;México;OmegaTech;Sector público;215460,00;$168480
+11/09/2020;Perú;NexTec;Sector público;114016,26;$61965,36
+12/09/2020;Argentina;Cybernova;Sector público;24023,56;$19066,32
+12/09/2020;México;OmegaTech;Grandes clientes;9281,65;$8001,423
+13/09/2020;Perú;NexTec;Consumidores finales;119996,83;$107352
+13/09/2020;Chile;OmegaTech;Consumidores finales;174809,64;$159825,96
+13/09/2020;Argentina;NexTec;Sector público;26981,64;$15687
+14/09/2020;Argentina;OmegaTech;Instituciones educativas;7117,88;$4995
+16/09/2020;Chile;OmegaTech;Consumidores finales;44783,65;$37260
+16/09/2020;Uruguay;NeuroNet;Consumidores finales;1094095,82;$958197,6
+16/09/2020;Perú;NexTec;Consumidores finales;1933865,97;$1730082,24
+17/09/2020;Perú;Cybernova;Sector público;2063,88;$1620
+18/09/2020;Uruguay;Cybernova;Sector público;37528,11;$30461,13
+18/09/2020;Perú;Innovatech;Pequeñas y medianas empresas;862875,02;$773185,5
+19/09/2020;Perú;Cybernova;Pequeñas y medianas empresas;322898,40;$305775
+19/09/2020;Argentina;NexTec;Pequeñas y medianas empresas;3206971,85;$2699471,25
+20/09/2020;Chile;NexTec;Sector público;214462,84;$110547,855
+20/09/2020;Uruguay;NexTec;Sector público;989759,23;$835511,04
+22/09/2020;Argentina;NexTec;Grandes clientes;26228,63;$20072,934
+23/09/2020;Argentina;OmegaTech;Consumidores finales;210755,77;$194832
+23/09/2020;Perú;NeuroNet;Sector público;13095,56;$7440,66
+25/09/2020;Chile;Cybernova;Grandes clientes;27964,39;$21185,145
+28/09/2020;Argentina;NeuroNet;Instituciones educativas;25467,75;$17325
+28/09/2020;Chile;NeuroNet;Sector público;177404,77;$92398,32
+29/09/2020;Perú;NexTec;Consumidores finales;136338,38;$119403,72
+29/09/2020;México;Cybernova;Grandes clientes;5675,18;$4892,4
+1/10/2020;Argentina;NexTec;Sector público;2130,66;$1710
+2/10/2020;Chile;Innovatech;Sector público;7254,63;$3739,5
+2/10/2020;Chile;NeuroNet;Sector público;900742,50;$778050
+2/10/2020;Uruguay;OmegaTech;Pequeñas y medianas empresas;1268696,52;$1161810
+3/10/2020;Uruguay;Cybernova;Consumidores finales;223848,56;$219108,24
+4/10/2020;Uruguay;Cybernova;Consumidores finales;173137,50;$160056
+4/10/2020;Argentina;Cybernova;Sector público;49995,57;$41524,56
+4/10/2020;Chile;NeuroNet;Grandes clientes;87593,43;$72192,384
+5/10/2020;Chile;NeuroNet;Instituciones educativas;36090,36;$25596
+5/10/2020;Uruguay;OmegaTech;Sector público;25695,90;$13815
+7/10/2020;Argentina;Cybernova;Instituciones educativas;8302,50;$5535
+8/10/2020;Perú;NexTec;Sector público;1758864,24;$1361025,9
+8/10/2020;Argentina;Innovatech;Sector público;467375,83;$394538,04
+8/10/2020;Uruguay;NexTec;Grandes clientes;92210,35;$74363,184
+9/10/2020;Perú;Innovatech;Instituciones educativas;8830,62;$6399
+12/10/2020;Chile;NexTec;Instituciones educativas;18380,93;$14085
+12/10/2020;Chile;OmegaTech;Consumidores finales;129872,60;$108054
+12/10/2020;Perú;Cybernova;Sector público;638637,30;$474416,28
+12/10/2020;Argentina;NexTec;Sector público;12459,56;$7329,15
+12/10/2020;México;Cybernova;Pequeñas y medianas empresas;157734,00;$142875
+12/10/2020;Argentina;NexTec;Pequeñas y medianas empresas;200707,20;$181800
+13/10/2020;Argentina;OmegaTech;Sector público;413459,42;$319938,84
+13/10/2020;Chile;Innovatech;Pequeñas y medianas empresas;775287,94;$751248
+13/10/2020;Uruguay;Innovatech;Grandes clientes;11166,12;$8545,5
+14/10/2020;Uruguay;Cybernova;Sector público;33078,24;$17784
+15/10/2020;México;NeuroNet;Instituciones educativas;53696,39;$37289,16
+15/10/2020;Argentina;NeuroNet;Sector público;16229,61;$12600,63
+16/10/2020;Perú;Cybernova;Consumidores finales;289533,46;$245808
+16/10/2020;Perú;NeuroNet;Pequeñas y medianas empresas;588859,20;$570600
+17/10/2020;Argentina;NexTec;Consumidores finales;259865,72;$218392,2
+18/10/2020;Argentina;Cybernova;Grandes clientes;27065,23;$23603,4
+19/10/2020;Argentina;Innovatech;Sector público;273319,20;$230724
+19/10/2020;México;OmegaTech;Sector público;28552,08;$15350,58
+21/10/2020;México;OmegaTech;Sector público;6849,47;$5149,98
+21/10/2020;México;Innovatech;Sector público;29584,25;$16255,08
+21/10/2020;Chile;Innovatech;Grandes clientes;27194,40;$20395,8
+22/10/2020;Uruguay;NexTec;Instituciones educativas;154034,66;$120811,5
+22/10/2020;Argentina;NexTec;Consumidores finales;195112,29;$163973,16
+22/10/2020;Uruguay;NeuroNet;Consumidores finales;817817,15;$764521,2
+23/10/2020;Uruguay;NeuroNet;Sector público;606617,42;$484548,48
+23/10/2020;Perú;NeuroNet;Pequeñas y medianas empresas;92517,39;$78671,25
+24/10/2020;Chile;OmegaTech;Consumidores finales;252960,14;$216972
+24/10/2020;México;NexTec;Consumidores finales;222325,06;$188749,44
+24/10/2020;Chile;OmegaTech;Sector público;47018,70;$26415
+24/10/2020;Uruguay;OmegaTech;Pequeñas y medianas empresas;1699625,59;$1522962
+24/10/2020;Perú;Innovatech;Grandes clientes;24475,65;$20172,24
+25/10/2020;Uruguay;Cybernova;Consumidores finales;152308,61;$142382,88
+25/10/2020;Chile;NexTec;Grandes clientes;20637,94;$17998,2
+28/10/2020;Argentina;NeuroNet;Consumidores finales;366187,50;$304668
+28/10/2020;México;NeuroNet;Consumidores finales;272868,75;$231660
+28/10/2020;Chile;NeuroNet;Grandes clientes;64337,85;$51885,36
+28/10/2020;Argentina;OmegaTech;Grandes clientes;28072,98;$24482,25
+29/10/2020;Perú;OmegaTech;Instituciones educativas;11916,45;$8730
+30/10/2020;Perú;Cybernova;Sector público;1517,04;$1260
+31/10/2020;México;Cybernova;Consumidores finales;285062,88;$257796
+31/10/2020;Perú;NexTec;Consumidores finales;54815,19;$53654,4
+31/10/2020;Chile;Cybernova;Pequeñas y medianas empresas;4185548,64;$3832920
+1/11/2020;Perú;Cybernova;Grandes clientes;3963,60;$2972,7
+2/11/2020;Perú;NeuroNet;Pequeñas y medianas empresas;1593506,25;$1397812,5
+5/11/2020;Perú;Innovatech;Sector público;8211,42;$6174
+5/11/2020;Perú;NexTec;Sector público;10859,94;$5967
+6/11/2020;México;OmegaTech;Sector público;18497,59;$14361,48
+7/11/2020;Perú;NexTec;Sector público;1438680,60;$1068734,16
+7/11/2020;Chile;Cybernova;Grandes clientes;15449,94;$11704,5
+8/11/2020;Chile;NexTec;Consumidores finales;275981,54;$260928
+8/11/2020;Perú;Cybernova;Sector público;10360,76;$5630,85
+8/11/2020;Argentina;Innovatech;Grandes clientes;8390,52;$7403,4
+9/11/2020;Perú;Innovatech;Grandes clientes;104525,80;$82520,37
+10/11/2020;Argentina;Innovatech;Instituciones educativas;106099,90;$79475,58
+13/11/2020;Argentina;Cybernova;Instituciones educativas;61715,56;$41559,3
+13/11/2020;Argentina;NeuroNet;Instituciones educativas;141675,01;$101559,15
+15/11/2020;Chile;OmegaTech;Sector público;70022,44;$40242,78
+16/11/2020;Chile;Innovatech;Instituciones educativas;91517,43;$63553,77
+16/11/2020;Argentina;Cybernova;Consumidores finales;234044,05;$216360,72
+16/11/2020;Perú;OmegaTech;Sector público;671806,80;$499056,48
+16/11/2020;Perú;Innovatech;Pequeñas y medianas empresas;171005,69;$145413
+16/11/2020;Perú;Cybernova;Pequeñas y medianas empresas;382552,09;$328653
+17/11/2020;Argentina;OmegaTech;Pequeñas y medianas empresas;344509,20;$308700
+17/11/2020;Uruguay;Innovatech;Pequeñas y medianas empresas;474131,39;$420329,25
+18/11/2020;México;NeuroNet;Sector público;13416,48;$10890
+18/11/2020;Perú;OmegaTech;Sector público;24933,93;$19358,64
+19/11/2020;Perú;NexTec;Sector público;530145,00;$437580
+19/11/2020;Chile;Innovatech;Pequeñas y medianas empresas;410605,20;$342171
+19/11/2020;México;NexTec;Pequeñas y medianas empresas;1297890,00;$1138500
+20/11/2020;Uruguay;OmegaTech;Consumidores finales;989305,14;$904507,56
+20/11/2020;México;Cybernova;Sector público;160091,98;$87006,51
+21/11/2020;México;Cybernova;Instituciones educativas;67105,32;$46600,92
+21/11/2020;Uruguay;NeuroNet;Grandes clientes;10868,07;$9477,972
+22/11/2020;Perú;Innovatech;Sector público;352680,30;$261991,08
+23/11/2020;Argentina;Cybernova;Sector público;114148,25;$65602,44
+23/11/2020;Perú;NeuroNet;Pequeñas y medianas empresas;638043,75;$559687,5
+24/11/2020;Chile;NeuroNet;Instituciones educativas;72902,53;$51703,92
+25/11/2020;Chile;Cybernova;Sector público;10094,95;$7923,825
+25/11/2020;Perú;NexTec;Grandes clientes;9518,15;$8205,3
+26/11/2020;Argentina;NexTec;Sector público;105537,60;$81666
+26/11/2020;Perú;NexTec;Sector público;32396,49;$23140,35
+27/11/2020;Chile;Innovatech;Sector público;15157,30;$12303
+27/11/2020;Chile;Innovatech;Pequeñas y medianas empresas;540270,00;$450225
+27/11/2020;Chile;Cybernova;Pequeñas y medianas empresas;347371,20;$336600
+28/11/2020;Argentina;NeuroNet;Pequeñas y medianas empresas;856005,30;$829462,5
+29/11/2020;México;Cybernova;Sector público;16093,67;$12100,5
+29/11/2020;Chile;OmegaTech;Sector público;52554,60;$45396
+29/11/2020;Chile;Cybernova;Pequeñas y medianas empresas;384634,98;$344655
+30/11/2020;Chile;Cybernova;Instituciones educativas;18520,65;$14526
+1/12/2020;Argentina;NexTec;Instituciones educativas;30149,42;$23103
+1/12/2020;México;NexTec;Consumidores finales;133037,31;$120312
+1/12/2020;Uruguay;Cybernova;Sector público;16138,44;$9493,2
+2/12/2020;Uruguay;Innovatech;Sector público;110413,80;$89154
+3/12/2020;Argentina;Cybernova;Consumidores finales;487034,31;$426539,52
+3/12/2020;Chile;Innovatech;Sector público;30814,20;$16218
+3/12/2020;México;OmegaTech;Sector público;2986,89;$2344,5
+3/12/2020;México;NeuroNet;Sector público;13920,73;$9943,38
+4/12/2020;Uruguay;Innovatech;Instituciones educativas;25174,80;$18648
+4/12/2020;Uruguay;Cybernova;Sector público;24946,96;$20720,07
+5/12/2020;México;OmegaTech;Instituciones educativas;127044,45;$84696,3
+5/12/2020;Perú;NexTec;Sector público;3904,20;$2169
+5/12/2020;México;OmegaTech;Pequeñas y medianas empresas;552603,87;$541768,5
+7/12/2020;Chile;NexTec;Grandes clientes;45778,98;$35034,93
+9/12/2020;México;Cybernova;Instituciones educativas;62931,69;$47139,84
+9/12/2020;Perú;NexTec;Sector público;59353,29;$34913,7
+9/12/2020;Argentina;NexTec;Pequeñas y medianas empresas;950676,21;$833926,5
+10/12/2020;México;Innovatech;Sector público;215062,09;$179506,08
+11/12/2020;Perú;NexTec;Instituciones educativas;11988,00;$7992
+11/12/2020;Perú;NexTec;Sector público;9565,29;$5314,05
+13/12/2020;México;OmegaTech;Pequeñas y medianas empresas;412195,50;$361575
+13/12/2020;Argentina;Innovatech;Pequeñas y medianas empresas;2276600,26;$1976215,5
+13/12/2020;Argentina;Cybernova;Pequeñas y medianas empresas;1181990,48;$1036833,75
+14/12/2020;Chile;NexTec;Sector público;880412,40;$667368
+14/12/2020;Uruguay;NeuroNet;Sector público;166490,10;$134433
+16/12/2020;Uruguay;Innovatech;Instituciones educativas;31062,42;$22509
+16/12/2020;Perú;OmegaTech;Instituciones educativas;30112,41;$21820,59
+16/12/2020;Uruguay;Cybernova;Consumidores finales;242513,22;$214650
+16/12/2020;Chile;NexTec;Consumidores finales;264131,65;$244175,04
+16/12/2020;Chile;Cybernova;Sector público;367479,00;$287352
+16/12/2020;Chile;NexTec;Sector público;15849,88;$12173,49
+16/12/2020;Chile;Cybernova;Pequeñas y medianas empresas;62461,80;$60525
+17/12/2020;Uruguay;NeuroNet;Pequeñas y medianas empresas;301480,70;$270144
+18/12/2020;Perú;OmegaTech;Instituciones educativas;13677,61;$9210,51
+19/12/2020;México;NeuroNet;Consumidores finales;272868,75;$231660
+19/12/2020;Argentina;Cybernova;Sector público;13199,76;$10476
+20/12/2020;Perú;NeuroNet;Consumidores finales;269495,33;$238532,04
+20/12/2020;Chile;Cybernova;Sector público;80006,81;$59528,88
+20/12/2020;México;NeuroNet;Pequeñas y medianas empresas;1303377,89;$1248446,25
+21/12/2020;México;Innovatech;Sector público;6882,41;$4001,4
+21/12/2020;Argentina;Cybernova;Grandes clientes;134243,55;$117072,864
+22/12/2020;Perú;NeuroNet;Sector público;42407,28;$24372
+23/12/2020;Perú;NeuroNet;Sector público;6938,60;$5006,205
+23/12/2020;Argentina;NexTec;Pequeñas y medianas empresas;2290560,12;$2219535
+24/12/2020;Argentina;Cybernova;Instituciones educativas;28315,58;$20974,5
+25/12/2020;Perú;Cybernova;Consumidores finales;365648,80;$341820
+25/12/2020;Uruguay;Cybernova;Sector público;29220,31;$23990,4
+25/12/2020;Uruguay;NeuroNet;Pequeñas y medianas empresas;644654,70;$537212,25
+26/12/2020;Perú;Innovatech;Sector público;549073,35;$420498
+28/12/2020;México;Cybernova;Sector público;2257,79;$1629
+28/12/2020;Perú;OmegaTech;Sector público;888129,90;$673218
+28/12/2020;Argentina;Innovatech;Pequeñas y medianas empresas;557442,00;$516150
+29/12/2020;México;NexTec;Sector público;26479,99;$21993,345
+30/12/2020;México;Cybernova;Instituciones educativas;21710,70;$16830
+30/12/2020;Argentina;OmegaTech;Grandes clientes;19865,74;$15049,8
+31/12/2020;Chile;OmegaTech;Instituciones educativas;26703,00;$20700
+1/01/2021;Perú;Innovatech;Consumidores finales;133016,83;$130200
+1/01/2021;Uruguay;NeuroNet;Pequeñas y medianas empresas;934065,00;$915750
+1/01/2021;Perú;NexTec;Grandes clientes;96378,48;$72283,86
+2/01/2021;Chile;OmegaTech;Sector público;26391,00;$13890
+2/01/2021;Uruguay;NeuroNet;Sector público;995057,84;$859518,4
+2/01/2021;Perú;Cybernova;Pequeñas y medianas empresas;1300218,48;$1094460
+2/01/2021;México;Cybernova;Grandes clientes;11439,78;$9225,63
+4/01/2021;Chile;Cybernova;Sector público;19158,72;$14255
+4/01/2021;Argentina;Cybernova;Sector público;1879898,48;$1534611
+7/01/2021;Perú;NeuroNet;Sector público;7707,35;$5795
+8/01/2021;México;Cybernova;Consumidores finales;273646,15;$258720
+9/01/2021;Perú;Innovatech;Consumidores finales;611019,23;$393380
+9/01/2021;Perú;NeuroNet;Sector público;26945,60;$15310
+9/01/2021;Argentina;NexTec;Grandes clientes;5314,00;$4688,82
+10/01/2021;Perú;NeuroNet;Instituciones educativas;13320,00;$8880
+10/01/2021;México;NeuroNet;Consumidores finales;692977,85;$600580,8
+10/01/2021;Perú;Cybernova;Grandes clientes;112864,75;$94053,96
+11/01/2021;Uruguay;Innovatech;Instituciones educativas;32558,40;$22610
+11/01/2021;Chile;Cybernova;Consumidores finales;959833,77;$858690
+11/01/2021;Chile;OmegaTech;Grandes clientes;40661,96;$31118,85
+12/01/2021;Argentina;Cybernova;Instituciones educativas;10665,00;$7900
+12/01/2021;Uruguay;NeuroNet;Consumidores finales;143927,88;$140880
+12/01/2021;Uruguay;Cybernova;Consumidores finales;926939,42;$820440
+12/01/2021;Argentina;Cybernova;Consumidores finales;9231,92;$5715
+13/01/2021;México;OmegaTech;Sector público;1326325,77;$995222,8
+15/01/2021;Chile;Cybernova;Grandes clientes;33237,60;$24928,2
+16/01/2021;Uruguay;NeuroNet;Sector público;79525,91;$40164,6
+16/01/2021;Perú;Innovatech;Grandes clientes;26698,80;$21078
+17/01/2021;Perú;Cybernova;Consumidores finales;458539,64;$389290,8
+17/01/2021;Chile;OmegaTech;Consumidores finales;14632,96;$9150
+17/01/2021;México;Cybernova;Grandes clientes;30835,08;$24867
+18/01/2021;México;OmegaTech;Sector público;9856,84;$7490
+18/01/2021;Uruguay;NeuroNet;Pequeñas y medianas empresas;1650664,04;$1418096,25
+20/01/2021;México;OmegaTech;Consumidores finales;157569,23;$136560
+20/01/2021;Perú;NexTec;Sector público;986811,00;$748020
+21/01/2021;Argentina;OmegaTech;Sector público;239183,00;$189020
+22/01/2021;México;NexTec;Instituciones educativas;8653,50;$6410
+22/01/2021;Chile;NeuroNet;Pequeñas y medianas empresas;298662,00;$273500
+23/01/2021;Chile;NexTec;Grandes clientes;36208,62;$29200,5
+24/01/2021;Chile;NexTec;Sector público;404176,50;$329940
+24/01/2021;Argentina;Innovatech;Sector público;18035,92;$14980
+25/01/2021;México;OmegaTech;Instituciones educativas;14610,00;$9740
+25/01/2021;Argentina;NeuroNet;Pequeñas y medianas empresas;2494206,00;$2445300
+26/01/2021;Argentina;Cybernova;Pequeñas y medianas empresas;587598,84;$504810
+27/01/2021;México;OmegaTech;Instituciones educativas;18537,81;$13886
+27/01/2021;Perú;Cybernova;Sector público;33404,80;$25935,4
+28/01/2021;Chile;NexTec;Sector público;90850,00;$45425
+28/01/2021;Uruguay;NexTec;Sector público;72984,91;$53196
+28/01/2021;Perú;Cybernova;Grandes clientes;40404,36;$30609,36
+29/01/2021;México;Cybernova;Consumidores finales;309220,15;$292353,6
+30/01/2021;Argentina;NeuroNet;Sector público;92064,00;$71240
+1/02/2021;Perú;OmegaTech;Instituciones educativas;24576,30;$17430
+1/02/2021;México;OmegaTech;Sector público;46796,20;$26290
+2/02/2021;Perú;NexTec;Sector público;66039,42;$37100,8
+4/02/2021;Perú;NeuroNet;Consumidores finales;17333,08;$10730
+5/02/2021;Perú;NeuroNet;Pequeñas y medianas empresas;1466760,96;$1273230
+6/02/2021;Chile;OmegaTech;Sector público;60200,00;$52000
+6/02/2021;México;NexTec;Sector público;43261,76;$23770,2
+7/02/2021;Uruguay;NexTec;Sector público;2065758,45;$1763866
+7/02/2021;Argentina;NexTec;Grandes clientes;79645,20;$59733,9
+8/02/2021;Argentina;NexTec;Consumidores finales;1008874,73;$953845,2
+8/02/2021;Chile;Cybernova;Sector público;19158,72;$14255
+8/02/2021;Argentina;Innovatech;Sector público;3560,97;$2735
+10/02/2021;Perú;OmegaTech;Pequeñas y medianas empresas;2108332,80;$1792800
+11/02/2021;México;Cybernova;Grandes clientes;150166,84;$121102,29
+13/02/2021;Perú;Cybernova;Sector público;16957,40;$13458,25
+14/02/2021;México;Innovatech;Sector público;5262,68;$3999
+16/02/2021;México;OmegaTech;Pequeñas y medianas empresas;323694,00;$275250
+16/02/2021;México;Cybernova;Grandes clientes;7661,92;$6605,1
+18/02/2021;Chile;NexTec;Instituciones educativas;22256,33;$16305
+19/02/2021;Uruguay;Cybernova;Consumidores finales;277194,46;$240235,2
+20/02/2021;México;Innovatech;Instituciones educativas;24427,92;$18506
+20/02/2021;Argentina;Cybernova;Sector público;432356,40;$338083,2
+21/02/2021;Perú;NeuroNet;Instituciones educativas;14981,25;$11750
+21/02/2021;Chile;NeuroNet;Sector público;222705,00;$183820
+22/02/2021;Argentina;NeuroNet;Instituciones educativas;50163,75;$36750
+22/02/2021;Chile;Innovatech;Instituciones educativas;29670,00;$23000
+23/02/2021;Perú;NeuroNet;Sector público;70164,32;$54475,4
+25/02/2021;Perú;Cybernova;Pequeñas y medianas empresas;186923,10;$171175
+27/02/2021;México;NeuroNet;Consumidores finales;260303,37;$218760
+28/02/2021;Chile;OmegaTech;Consumidores finales;92055,29;$76590
+28/02/2021;México;NeuroNet;Consumidores finales;254064,62;$237507,6
+1/03/2021;Chile;Cybernova;Sector público;28566,72;$21255
+1/03/2021;Uruguay;Cybernova;Sector público;1421637,00;$1056073,2
+2/03/2021;Chile;Cybernova;Instituciones educativas;22484,70;$17430
+2/03/2021;Perú;Innovatech;Sector público;46852,16;$36375,9
+3/03/2021;Chile;OmegaTech;Consumidores finales;74418,75;$68040
+3/03/2021;México;NeuroNet;Sector público;10396,54;$8635
+4/03/2021;Argentina;Cybernova;Sector público;8031,60;$4365
+4/03/2021;Perú;Cybernova;Grandes clientes;5040,96;$4248
+5/03/2021;México;Innovatech;Instituciones educativas;28795,95;$21570
+5/03/2021;Argentina;Innovatech;Consumidores finales;455377,93;$398815,2
+5/03/2021;México;NexTec;Sector público;76603,82;$43524,9
+6/03/2021;Perú;Cybernova;Consumidores finales;114349,04;$97080
+7/03/2021;Perú;NeuroNet;Sector público;26588,94;$18992,1
+8/03/2021;Argentina;Innovatech;Grandes clientes;11560,27;$10200,24
+9/03/2021;Perú;NeuroNet;Grandes clientes;17253,60;$14220
+10/03/2021;Perú;Innovatech;Pequeñas y medianas empresas;2671600,32;$2319097,5
+12/03/2021;Argentina;NexTec;Pequeñas y medianas empresas;2349675,51;$2151717,5
+13/03/2021;Perú;NeuroNet;Pequeñas y medianas empresas;62916,00;$53500
+13/03/2021;Chile;NexTec;Grandes clientes;6601,92;$5382
+14/03/2021;Chile;NexTec;Consumidores finales;208172,60;$199080
+14/03/2021;Uruguay;Cybernova;Sector público;14204,40;$10680
+14/03/2021;Perú;Cybernova;Sector público;7690,80;$4420
+14/03/2021;Uruguay;NeuroNet;Sector público;112420,80;$56210,4
+15/03/2021;Uruguay;OmegaTech;Grandes clientes;20991,60;$16065
+16/03/2021;Uruguay;NeuroNet;Pequeñas y medianas empresas;431112,00;$390500
+18/03/2021;Argentina;NexTec;Consumidores finales;302965,38;$286440
+18/03/2021;Uruguay;Innovatech;Consumidores finales;1040288,48;$972494,4
+18/03/2021;Uruguay;Cybernova;Sector público;15774,36;$12660
+18/03/2021;Chile;NexTec;Pequeñas y medianas empresas;686952,00;$609000
+19/03/2021;México;NeuroNet;Pequeñas y medianas empresas;86313,60;$79920
+19/03/2021;Chile;OmegaTech;Pequeñas y medianas empresas;260257,50;$252187,5
+19/03/2021;Argentina;NeuroNet;Grandes clientes;72850,28;$56327,535
+20/03/2021;Argentina;Cybernova;Pequeñas y medianas empresas;827604,00;$711000
+20/03/2021;Perú;Cybernova;Grandes clientes;87323,40;$65492,55
+22/03/2021;México;Innovatech;Instituciones educativas;37050,00;$24700
+23/03/2021;Argentina;NexTec;Sector público;91238,00;$69160
+23/03/2021;México;OmegaTech;Sector público;47411,40;$36026,9
+23/03/2021;Uruguay;NeuroNet;Grandes clientes;24782,96;$19162,08
+24/03/2021;Chile;OmegaTech;Grandes clientes;110473,39;$88143,66
+25/03/2021;Chile;Innovatech;Grandes clientes;25932,72;$20691
+26/03/2021;Perú;Cybernova;Sector público;19144,54;$14097,6
+26/03/2021;Perú;Innovatech;Sector público;2769770,01;$2121178,8
+26/03/2021;Uruguay;Innovatech;Pequeñas y medianas empresas;230310,00;$213250
+27/03/2021;Perú;NeuroNet;Sector público;15800,07;$11879,75
+28/03/2021;Perú;OmegaTech;Grandes clientes;10575,72;$9117
+29/03/2021;Argentina;Cybernova;Sector público;116328,74;$59351,4
+29/03/2021;Uruguay;NeuroNet;Grandes clientes;14375,76;$12537
+30/03/2021;Perú;OmegaTech;Grandes clientes;18478,80;$15930
+30/03/2021;Uruguay;NexTec;Grandes clientes;14375,76;$12537
+31/03/2021;Argentina;Innovatech;Sector público;303688,00;$256360
+31/03/2021;Argentina;Cybernova;Sector público;14135,62;$7682,4
+31/03/2021;Chile;Cybernova;Pequeñas y medianas empresas;545334,00;$468500
+1/04/2021;México;NexTec;Consumidores finales;234634,62;$199200
+2/04/2021;Uruguay;Cybernova;Pequeñas y medianas empresas;468072,00;$443250
+3/04/2021;Perú;OmegaTech;Consumidores finales;608581,73;$506340
+5/04/2021;Uruguay;NexTec;Consumidores finales;8236,04;$5150
+5/04/2021;Perú;OmegaTech;Sector público;15056,72;$11690
+6/04/2021;Chile;NeuroNet;Sector público;20148,00;$10074
+6/04/2021;Uruguay;NeuroNet;Pequeñas y medianas empresas;708439,50;$608625
+6/04/2021;Chile;Cybernova;Pequeñas y medianas empresas;1254535,92;$1136355
+7/04/2021;Perú;NexTec;Consumidores finales;30484,62;$13210
+7/04/2021;Perú;Innovatech;Pequeñas y medianas empresas;582048,00;$505250
+8/04/2021;Perú;NeuroNet;Sector público;15056,72;$11690
+10/04/2021;México;Cybernova;Sector público;72600,31;$54586,7
+11/04/2021;Perú;OmegaTech;Consumidores finales;2629073,08;$2187388,8
+11/04/2021;Perú;Cybernova;Sector público;13294,82;$9790
+11/04/2021;Chile;NeuroNet;Pequeñas y medianas empresas;223996,50;$205125
+13/04/2021;México;NexTec;Consumidores finales;157569,23;$136560
+13/04/2021;Chile;NexTec;Sector público;11263,84;$9040
+14/04/2021;Chile;Cybernova;Instituciones educativas;34983,45;$27438
+14/04/2021;Perú;NeuroNet;Sector público;1907193,12;$1539969,6
+14/04/2021;México;OmegaTech;Pequeñas y medianas empresas;139230,00;$136500
+15/04/2021;México;Innovatech;Grandes clientes;18972,00;$16740
+16/04/2021;Chile;NexTec;Instituciones educativas;110613,94;$81035,85
+16/04/2021;Argentina;Innovatech;Consumidores finales;505541,12;$424858,8
+16/04/2021;Chile;Cybernova;Sector público;14497,56;$10460
+16/04/2021;Uruguay;Cybernova;Grandes clientes;18519,12;$15606
+17/04/2021;Argentina;NeuroNet;Sector público;11312,75;$9079,25
+17/04/2021;México;NeuroNet;Grandes clientes;4007,64;$3303
+18/04/2021;Perú;Innovatech;Sector público;3408082,30;$2583386
+18/04/2021;Uruguay;OmegaTech;Sector público;97503,25;$51317,5
+19/04/2021;Argentina;NeuroNet;Sector público;1329836,76;$1062235,2
+19/04/2021;México;NeuroNet;Pequeñas y medianas empresas;116640,00;$108000
+19/04/2021;Argentina;NexTec;Pequeñas y medianas empresas;2565050,40;$2429025
+20/04/2021;México;Cybernova;Grandes clientes;12802,20;$10107
+20/04/2021;México;OmegaTech;Grandes clientes;3085,88;$2543,31
+21/04/2021;México;Cybernova;Instituciones educativas;77952,63;$54703,6
+21/04/2021;Argentina;Innovatech;Sector público;519027,11;$410173,4
+22/04/2021;Uruguay;Cybernova;Consumidores finales;413723,08;$358560
+23/04/2021;México;NeuroNet;Consumidores finales;357761,25;$303732
+23/04/2021;Argentina;Innovatech;Sector público;46042,36;$25298
+23/04/2021;México;OmegaTech;Sector público;145732,16;$121638,4
+24/04/2021;Argentina;NeuroNet;Sector público;4539,00;$2670
+24/04/2021;Argentina;NeuroNet;Sector público;57848,14;$44913,15
+24/04/2021;Perú;Cybernova;Grandes clientes;28855,56;$22311
+25/04/2021;Chile;NeuroNet;Sector público;1566432,00;$1292928
+26/04/2021;Chile;Cybernova;Instituciones educativas;72251,09;$49150,4
+26/04/2021;Perú;Cybernova;Sector público;1897343,00;$1499420
+26/04/2021;Uruguay;NexTec;Grandes clientes;31731,48;$24039
+27/04/2021;Chile;NexTec;Instituciones educativas;29364,66;$21996
+27/04/2021;Uruguay;NexTec;Consumidores finales;489753,00;$420076,8
+27/04/2021;México;Cybernova;Sector público;8139,60;$6840
+27/04/2021;Argentina;Cybernova;Sector público;40063,11;$31104,9
+30/04/2021;Chile;Cybernova;Sector público;13027,20;$7080
+30/04/2021;Chile;NexTec;Pequeñas y medianas empresas;391716,00;$351000
+1/05/2021;México;OmegaTech;Instituciones educativas;159990,01;$117208,8
+1/05/2021;Uruguay;NexTec;Consumidores finales;324841,85;$314265,6
+1/05/2021;Argentina;NexTec;Sector público;237218,80;$179816
+2/05/2021;Uruguay;OmegaTech;Grandes clientes;12406,80;$9495
+2/05/2021;Uruguay;Innovatech;Grandes clientes;12794,64;$10782
+3/05/2021;Uruguay;Cybernova;Sector público;29785,58;$24454,5
+3/05/2021;Argentina;NexTec;Grandes clientes;25692,00;$19269
+3/05/2021;Argentina;NexTec;Grandes clientes;9322,80;$8226
+4/05/2021;Perú;NeuroNet;Sector público;1017338,00;$771160
+5/05/2021;Chile;NeuroNet;Instituciones educativas;20423,25;$15650
+5/05/2021;Uruguay;OmegaTech;Sector público;29978,55;$16117,5
+5/05/2021;Chile;Innovatech;Sector público;44629,82;$36225,5
+7/05/2021;Uruguay;Cybernova;Sector público;6711,81;$5155
+7/05/2021;Uruguay;Cybernova;Sector público;2964428,78;$2224391
+11/05/2021;Uruguay;Cybernova;Consumidores finales;616673,08;$397020
+11/05/2021;México;OmegaTech;Sector público;41942,54;$34836
+13/05/2021;Uruguay;Cybernova;Consumidores finales;593681,97;$509220
+14/05/2021;Chile;NexTec;Consumidores finales;384447,12;$319860
+14/05/2021;Perú;NexTec;Sector público;35585,60;$19340
+16/05/2021;Chile;Innovatech;Sector público;550663,47;$459622,8
+17/05/2021;Argentina;Cybernova;Sector público;884205,00;$729820
+17/05/2021;Uruguay;NexTec;Pequeñas y medianas empresas;313104,00;$296500
+18/05/2021;Perú;Cybernova;Consumidores finales;387643,24;$329101,2
+19/05/2021;México;OmegaTech;Consumidores finales;195360,58;$189000
+20/05/2021;Perú;OmegaTech;Instituciones educativas;14981,25;$11750
+21/05/2021;Chile;NeuroNet;Sector público;404176,50;$329940
+21/05/2021;México;Cybernova;Pequeñas y medianas empresas;159570,00;$147750
+21/05/2021;Perú;OmegaTech;Pequeñas y medianas empresas;985849,92;$855772,5
+22/05/2021;Argentina;NexTec;Instituciones educativas;28623,00;$20300
+23/05/2021;Uruguay;NexTec;Sector público;123124,56;$66196
+25/05/2021;México;Innovatech;Instituciones educativas;5016,00;$3800
+25/05/2021;Uruguay;Cybernova;Pequeñas y medianas empresas;267561,00;$239750
+26/05/2021;Chile;OmegaTech;Sector público;1317498,68;$988599,3
+26/05/2021;Argentina;Innovatech;Sector público;449458,24;$379412,8
+26/05/2021;México;OmegaTech;Grandes clientes;22948,48;$18309,96
+27/05/2021;Argentina;Cybernova;Consumidores finales;75158,65;$69480
+27/05/2021;México;NeuroNet;Pequeñas y medianas empresas;1504140,00;$1424375
+27/05/2021;Uruguay;NexTec;Grandes clientes;12794,64;$10782
+29/05/2021;Chile;NeuroNet;Instituciones educativas;3139,20;$2180
+29/05/2021;México;OmegaTech;Pequeñas y medianas empresas;1359514,80;$1156050
+30/05/2021;Chile;OmegaTech;Sector público;1661821,70;$1299469,6
+31/05/2021;Uruguay;Cybernova;Sector público;460346,25;$359970
+31/05/2021;México;Innovatech;Grandes clientes;26114,40;$21060
+1/06/2021;México;NeuroNet;Grandes clientes;27102,10;$20741,4
+2/06/2021;Perú;NeuroNet;Instituciones educativas;52734,00;$41360
+2/06/2021;Uruguay;OmegaTech;Sector público;731472,00;$566020
+2/06/2021;Perú;NexTec;Sector público;6756,40;$5080
+3/06/2021;Perú;NexTec;Consumidores finales;219649,04;$188400
+3/06/2021;Chile;OmegaTech;Sector público;39820,80;$20740
+3/06/2021;Chile;Cybernova;Grandes clientes;22271,04;$18981
+3/06/2021;Chile;NexTec;Grandes clientes;50626,08;$39143,88
+4/06/2021;Uruguay;NexTec;Sector público;33031,60;$17570
+4/06/2021;Argentina;Cybernova;Sector público;354277,00;$306020
+4/06/2021;México;NexTec;Sector público;4573,94;$3267,1
+7/06/2021;Perú;Cybernova;Consumidores finales;133016,83;$130200
+9/06/2021;Argentina;Innovatech;Consumidores finales;132878,94;$111672
+9/06/2021;México;NexTec;Sector público;40775,68;$23168
+9/06/2021;Perú;NexTec;Grandes clientes;17449,94;$15043,05
+10/06/2021;Argentina;NexTec;Sector público;50597,00;$26630
+12/06/2021;Argentina;Cybernova;Consumidores finales;9231,92;$5715
+14/06/2021;Perú;Innovatech;Sector público;25174,93;$19545,75
+14/06/2021;Argentina;NeuroNet;Pequeñas y medianas empresas;382788,00;$343000
+14/06/2021;Argentina;NeuroNet;Pequeñas y medianas empresas;260580,00;$252500
+15/06/2021;Perú;Cybernova;Consumidores finales;238675,96;$204720
+16/06/2021;Chile;NexTec;Consumidores finales;341415,00;$315619,2
+17/06/2021;Perú;OmegaTech;Instituciones educativas;20390,37;$14938
+17/06/2021;Perú;NeuroNet;Consumidores finales;543780,00;$471276
+18/06/2021;Argentina;Innovatech;Instituciones educativas;22794,30;$17670
+18/06/2021;Uruguay;Innovatech;Sector público;13939,93;$10592,65
+18/06/2021;Uruguay;OmegaTech;Pequeñas y medianas empresas;462861,00;$414750
+18/06/2021;Perú;Cybernova;Grandes clientes;27799,20;$23166
+19/06/2021;Chile;Cybernova;Sector público;46507,10;$25275,6
+19/06/2021;México;Cybernova;Pequeñas y medianas empresas;2294884,80;$2078700
+20/06/2021;Uruguay;Cybernova;Consumidores finales;81281,25;$79560
+21/06/2021;Argentina;NexTec;Consumidores finales;1222463,81;$1117681,2
+23/06/2021;México;NeuroNet;Consumidores finales;179713,56;$166135,2
+23/06/2021;Chile;OmegaTech;Sector público;31308,41;$24046,4
+23/06/2021;México;OmegaTech;Sector público;9716,08;$5520,5
+24/06/2021;Perú;OmegaTech;Instituciones educativas;28299,75;$19450
+24/06/2021;México;Innovatech;Sector público;107156,00;$89440
+24/06/2021;Chile;NexTec;Grandes clientes;10569,12;$8172
+25/06/2021;Uruguay;Cybernova;Sector público;10420,62;$8655
+26/06/2021;Perú;NeuroNet;Pequeñas y medianas empresas;1052565,15;$963887,5
+27/06/2021;Uruguay;NexTec;Instituciones educativas;50378,45;$35729,4
+27/06/2021;Uruguay;OmegaTech;Sector público;1675070,88;$1296185,8
+27/06/2021;Perú;Cybernova;Sector público;27287,26;$14514,5
+27/06/2021;Perú;OmegaTech;Grandes clientes;42091,37;$36285,66
+27/06/2021;Argentina;NexTec;Grandes clientes;15637,69;$13637,52
+29/06/2021;México;NexTec;Consumidores finales;7131,92;$4415
+30/06/2021;Uruguay;Cybernova;Consumidores finales;112860,00;$98841,6
+2/07/2021;Uruguay;NeuroNet;Sector público;936138,00;$747760
+2/07/2021;México;NeuroNet;Sector público;15083,25;$12675
+4/07/2021;Argentina;NexTec;Consumidores finales;94668,75;$79560
+4/07/2021;Uruguay;NeuroNet;Sector público;201285,00;$166140
+4/07/2021;México;OmegaTech;Sector público;19971,60;$11220
+4/07/2021;Uruguay;Innovatech;Pequeñas y medianas empresas;879784,20;$814615
+5/07/2021;Uruguay;Cybernova;Instituciones educativas;13680,86;$9212,7
+5/07/2021;Uruguay;OmegaTech;Sector público;116463,50;$84028,5
+5/07/2021;Perú;NeuroNet;Pequeñas y medianas empresas;2662952,16;$2580380
+7/07/2021;Chile;OmegaTech;Sector público;7388,85;$5675
+7/07/2021;Perú;NexTec;Sector público;13069,89;$7103,2
+7/07/2021;Perú;NexTec;Pequeñas y medianas empresas;185351,76;$177540
+8/07/2021;Chile;Cybernova;Consumidores finales;385733,65;$327480
+8/07/2021;Chile;NeuroNet;Sector público;1054900,67;$861143,4
+8/07/2021;Perú;NeuroNet;Grandes clientes;24719,40;$19935
+9/07/2021;Perú;Cybernova;Consumidores finales;219649,04;$188400
+9/07/2021;Perú;NexTec;Sector público;53257,60;$29920
+9/07/2021;Uruguay;Cybernova;Pequeñas y medianas empresas;87906,00;$80500
+10/07/2021;México;NexTec;Instituciones educativas;37080,00;$24720
+10/07/2021;Uruguay;Cybernova;Grandes clientes;25904,34;$21829,5
+11/07/2021;México;Innovatech;Sector público;1949582,25;$1462890
+13/07/2021;Argentina;NexTec;Instituciones educativas;78702,62;$59623,2
+13/07/2021;Argentina;NexTec;Sector público;12793,96;$9230,85
+13/07/2021;Uruguay;NexTec;Sector público;28942,46;$21761,25
+14/07/2021;México;NeuroNet;Instituciones educativas;29246,40;$20310
+14/07/2021;Perú;Cybernova;Grandes clientes;75202,80;$56402,1
+15/07/2021;Chile;NeuroNet;Sector público;4301,85;$3615
+15/07/2021;Argentina;NeuroNet;Sector público;148815,86;$107370,75
+17/07/2021;México;OmegaTech;Sector público;17476,06;$14515
+19/07/2021;Chile;NexTec;Sector público;13027,20;$7080
+21/07/2021;Perú;OmegaTech;Consumidores finales;406269,23;$261560
+21/07/2021;Uruguay;Cybernova;Consumidores finales;5109,54;$3195
+21/07/2021;México;Innovatech;Consumidores finales;483767,31;$314600
+22/07/2021;Uruguay;OmegaTech;Sector público;10985,77;$8347,85
+23/07/2021;Uruguay;Innovatech;Instituciones educativas;34095,60;$22960
+23/07/2021;Perú;NeuroNet;Pequeñas y medianas empresas;725907,00;$664750
+23/07/2021;México;NeuroNet;Grandes clientes;21502,64;$18536,76
+24/07/2021;Perú;Cybernova;Sector público;11868,00;$6450
+25/07/2021;Argentina;NeuroNet;Sector público;299171,25;$255450
+25/07/2021;Chile;NeuroNet;Sector público;210700,00;$182000
+25/07/2021;Argentina;OmegaTech;Sector público;865769,63;$756639
+26/07/2021;Argentina;NeuroNet;Grandes clientes;49405,51;$38200,14
+27/07/2021;Argentina;NeuroNet;Sector público;2681229,60;$2213078,4
+27/07/2021;Chile;Cybernova;Pequeñas y medianas empresas;1612071,24;$1509430
+28/07/2021;Argentina;OmegaTech;Grandes clientes;37319,04;$27989,28
+29/07/2021;Argentina;Cybernova;Sector público;18721,08;$14535
+31/07/2021;México;Innovatech;Instituciones educativas;113456,04;$84985,8
+31/07/2021;Chile;OmegaTech;Grandes clientes;25932,72;$20691
+1/08/2021;Uruguay;Innovatech;Instituciones educativas;16748,55;$12270
+3/08/2021;Chile;NexTec;Pequeñas y medianas empresas;3056936,40;$2710050
+4/08/2021;Chile;NexTec;Instituciones educativas;20826,00;$15600
+4/08/2021;Chile;NexTec;Sector público;178549,31;$100308,6
+4/08/2021;Uruguay;OmegaTech;Sector público;3792,30;$3149,75
+4/08/2021;Perú;OmegaTech;Pequeñas y medianas empresas;407376,00;$353625
+4/08/2021;Argentina;NeuroNet;Pequeñas y medianas empresas;263185,80;$255025
+5/08/2021;Argentina;Innovatech;Sector público;34603,84;$28410,375
+6/08/2021;Uruguay;OmegaTech;Sector público;3693,76;$2720
+6/08/2021;Perú;NeuroNet;Sector público;93767,21;$53889,2
+7/08/2021;Chile;NexTec;Grandes clientes;5809,69;$4736,16
+7/08/2021;Uruguay;Innovatech;Grandes clientes;10619,55;$8949,06
+8/08/2021;México;NexTec;Consumidores finales;115106,25;$105240
+8/08/2021;México;Cybernova;Sector público;769814,50;$628420
+9/08/2021;México;OmegaTech;Instituciones educativas;8744,25;$6550
+9/08/2021;Perú;NexTec;Consumidores finales;335336,54;$300000
+9/08/2021;Chile;Innovatech;Sector público;10262,07;$8055
+9/08/2021;Argentina;Innovatech;Grandes clientes;24308,16;$18603,18
+10/08/2021;Chile;NexTec;Sector público;704329,92;$533894,4
+10/08/2021;Chile;OmegaTech;Sector público;896098,28;$756446,6
+11/08/2021;México;OmegaTech;Sector público;484060,50;$363220
+12/08/2021;Uruguay;NexTec;Sector público;24757,00;$13030
+12/08/2021;México;NeuroNet;Grandes clientes;22302,24;$17244
+14/08/2021;Chile;NexTec;Grandes clientes;42997,68;$36234
+18/08/2021;Argentina;Cybernova;Consumidores finales;373514,42;$330600
+19/08/2021;Uruguay;Cybernova;Consumidores finales;132738,75;$122709,6
+20/08/2021;Argentina;NexTec;Instituciones educativas;43162,81;$32699,1
+21/08/2021;Argentina;NeuroNet;Instituciones educativas;40887,45;$29310
+24/08/2021;México;OmegaTech;Sector público;15928,00;$9050
+25/08/2021;Perú;Innovatech;Grandes clientes;18701,93;$14764,68
+26/08/2021;Argentina;NexTec;Grandes clientes;30072,48;$26226
+28/08/2021;Perú;NeuroNet;Sector público;1822,59;$1315
+28/08/2021;Perú;Cybernova;Sector público;655357,50;$512460
+28/08/2021;Perú;NeuroNet;Sector público;1115629,06;$910717,6
+30/08/2021;Perú;Cybernova;Instituciones educativas;6273,00;$4920
+30/08/2021;Uruguay;NexTec;Consumidores finales;487952,44;$418532,4
+31/08/2021;Argentina;Innovatech;Sector público;16220,16;$8448
+1/09/2021;Chile;NexTec;Consumidores finales;248711,54;$229920
+1/09/2021;Chile;Cybernova;Consumidores finales;198636,06;$189960
+1/09/2021;Uruguay;NexTec;Sector público;16538,55;$12435
+2/09/2021;Chile;Cybernova;Pequeñas y medianas empresas;1038082,50;$950625
+3/09/2021;México;Cybernova;Pequeñas y medianas empresas;481901,40;$446205
+3/09/2021;Chile;Cybernova;Pequeñas y medianas empresas;223861,44;$216920
+4/09/2021;Chile;Cybernova;Pequeñas y medianas empresas;1343168,64;$1301520
+6/09/2021;Argentina;Innovatech;Sector público;10423,20;$6060
+7/09/2021;Perú;Cybernova;Instituciones educativas;9193,50;$6810
+7/09/2021;Perú;NexTec;Sector público;135884,00;$109720
+7/09/2021;Uruguay;NeuroNet;Sector público;18236,09;$15146,25
+8/09/2021;Perú;NeuroNet;Consumidores finales;120256,73;$106440
+8/09/2021;Chile;OmegaTech;Sector público;21732,60;$12490
+9/09/2021;Argentina;Cybernova;Grandes clientes;16876,80;$13185
+9/09/2021;Chile;OmegaTech;Grandes clientes;29156,16;$24849
+10/09/2021;Uruguay;Innovatech;Instituciones educativas;16413,58;$12024,6
+11/09/2021;Perú;NexTec;Sector público;640752,00;$495820
+12/09/2021;Perú;OmegaTech;Pequeñas y medianas empresas;1613654,55;$1510912,5
+13/09/2021;Chile;Innovatech;Consumidores finales;198636,06;$189960
+14/09/2021;Chile;Innovatech;Grandes clientes;40682,90;$33902,415
+16/09/2021;México;OmegaTech;Consumidores finales;99633,89;$96390
+16/09/2021;México;OmegaTech;Sector público;6172,91;$4845,3
+16/09/2021;Uruguay;NeuroNet;Pequeñas y medianas empresas;631125,00;$618750
+16/09/2021;Uruguay;Cybernova;Grandes clientes;20759,78;$16741,755
+17/09/2021;Argentina;OmegaTech;Pequeñas y medianas empresas;808110,00;$748250
+18/09/2021;Uruguay;Cybernova;Instituciones educativas;16748,55;$12270
+18/09/2021;Argentina;OmegaTech;Sector público;50597,00;$26630
+19/09/2021;Uruguay;Innovatech;Instituciones educativas;136382,40;$91840
+20/09/2021;Uruguay;NexTec;Sector público;683004,00;$539760
+20/09/2021;Argentina;NexTec;Sector público;405733,44;$313960,4
+21/09/2021;México;Cybernova;Pequeñas y medianas empresas;287400,00;$239500
+24/09/2021;Uruguay;Innovatech;Instituciones educativas;29254,50;$21670
+24/09/2021;Chile;NeuroNet;Instituciones educativas;184461,84;$130824
+24/09/2021;Argentina;OmegaTech;Consumidores finales;261594,17;$219844,8
+24/09/2021;Argentina;Cybernova;Sector público;200165,00;$156520
+25/09/2021;Uruguay;Cybernova;Sector público;42433,03;$34055,4
+25/09/2021;México;NeuroNet;Pequeñas y medianas empresas;236400,00;$197000
+26/09/2021;Uruguay;NexTec;Consumidores finales;180056,25;$154440
+26/09/2021;Argentina;OmegaTech;Sector público;43513,42;$22901,8
+28/09/2021;México;NexTec;Sector público;21112,40;$11230
+28/09/2021;México;Innovatech;Sector público;131300,40;$74602,5
+29/09/2021;Uruguay;Innovatech;Consumidores finales;43823,08;$18990
+30/09/2021;Perú;OmegaTech;Instituciones educativas;6127,65;$4539
+1/10/2021;Perú;NexTec;Instituciones educativas;8613,00;$6600
+1/10/2021;Argentina;OmegaTech;Grandes clientes;18421,20;$16254
+2/10/2021;Chile;NeuroNet;Instituciones educativas;40100,40;$28440
+2/10/2021;México;NeuroNet;Consumidores finales;121562,02;$113640
+3/10/2021;Chile;NeuroNet;Sector público;32162,13;$23205
+3/10/2021;México;Cybernova;Pequeñas y medianas empresas;678960,00;$615000
+5/10/2021;Uruguay;OmegaTech;Consumidores finales;260192,31;$216480
+5/10/2021;Chile;Cybernova;Sector público;20794,80;$11180
+5/10/2021;Perú;Cybernova;Sector público;7911,54;$6210
+5/10/2021;Perú;NeuroNet;Sector público;5646,76;$4690
+5/10/2021;Chile;NexTec;Sector público;44729,04;$26311,2
+6/10/2021;Perú;NexTec;Consumidores finales;471214,90;$421560
+7/10/2021;Uruguay;OmegaTech;Consumidores finales;243731,25;$222840
+7/10/2021;Perú;OmegaTech;Consumidores finales;339223,56;$332040
+7/10/2021;Argentina;NeuroNet;Sector público;9837,17;$7895
+7/10/2021;Chile;OmegaTech;Sector público;87799,70;$50459,6
+8/10/2021;Perú;Cybernova;Grandes clientes;16282,30;$13721,04
+9/10/2021;Argentina;Cybernova;Sector público;21009,00;$11175
+12/10/2021;Chile;NeuroNet;Grandes clientes;85911,54;$67824,9
+14/10/2021;Perú;NeuroNet;Sector público;784531,44;$654825,6
+15/10/2021;Uruguay;Innovatech;Sector público;1941439,50;$1456780
+16/10/2021;Uruguay;Cybernova;Grandes clientes;19401,66;$15646,5
+16/10/2021;Chile;NexTec;Grandes clientes;54575,88;$47595,24
+17/10/2021;Argentina;Cybernova;Sector público;24035,00;$12650
+18/10/2021;Perú;Innovatech;Sector público;1017338,00;$771160
+19/10/2021;Argentina;NexTec;Consumidores finales;94668,75;$79560
+19/10/2021;Argentina;Innovatech;Consumidores finales;103807,21;$87240
+19/10/2021;México;Cybernova;Consumidores finales;204346,15;$184800
+19/10/2021;México;NeuroNet;Consumidores finales;71114,42;$66480
+19/10/2021;Argentina;NeuroNet;Sector público;388510,08;$300632,8
+19/10/2021;Chile;NexTec;Pequeñas y medianas empresas;563304,00;$479000
+22/10/2021;Uruguay;NexTec;Sector público;33191,24;$23947,5
+23/10/2021;Perú;Cybernova;Grandes clientes;7310,64;$5482,98
+25/10/2021;Perú;OmegaTech;Consumidores finales;279938,94;$250440
+25/10/2021;Argentina;OmegaTech;Sector público;597082,50;$521820
+25/10/2021;Perú;OmegaTech;Sector público;27669,39;$20804,05
+27/10/2021;Uruguay;Innovatech;Instituciones educativas;50349,60;$37296
+27/10/2021;México;Innovatech;Sector público;30830,80;$16940
+27/10/2021;Perú;NeuroNet;Grandes clientes;32382,41;$26114,85
+30/10/2021;Chile;NeuroNet;Consumidores finales;131793,75;$110760
+30/10/2021;México;Cybernova;Sector público;626640,00;$484900
+30/10/2021;Uruguay;Cybernova;Sector público;644875,00;$479050
+31/10/2021;México;Innovatech;Instituciones educativas;40769,25;$28610
+31/10/2021;Argentina;Innovatech;Sector público;25971,72;$21571,2
+31/10/2021;Perú;Innovatech;Grandes clientes;12722,40;$10044
+31/10/2021;Chile;NeuroNet;Grandes clientes;25345,32;$20889
+1/11/2021;Uruguay;Cybernova;Sector público;44378,40;$25215
+2/11/2021;Uruguay;OmegaTech;Consumidores finales;31544,83;$19725
+3/11/2021;Uruguay;Cybernova;Consumidores finales;1110576,92;$715000
+3/11/2021;Perú;NexTec;Pequeñas y medianas empresas;210627,00;$201750
+5/11/2021;Argentina;NeuroNet;Sector público;18721,08;$14535
+6/11/2021;Uruguay;Cybernova;Sector público;683004,00;$539760
+8/11/2021;Perú;NexTec;Consumidores finales;242660,25;$217089,6
+8/11/2021;Argentina;Cybernova;Sector público;659613,50;$538460
+9/11/2021;Chile;NexTec;Consumidores finales;281066,83;$241080
+9/11/2021;Uruguay;NexTec;Consumidores finales;459611,78;$386259,6
+10/11/2021;Chile;Innovatech;Sector público;40227,31;$31575,6
+12/11/2021;Chile;NexTec;Instituciones educativas;79242,21;$60722
+13/11/2021;Uruguay;NexTec;Sector público;35172,00;$19540
+14/11/2021;Chile;OmegaTech;Sector público;326922,75;$245310
+15/11/2021;Uruguay;Cybernova;Consumidores finales;754539,92;$634118,4
+15/11/2021;Chile;Innovatech;Consumidores finales;1037623,53;$880921,2
+15/11/2021;Uruguay;OmegaTech;Sector público;1172166,24;$1012502,4
+16/11/2021;Perú;NeuroNet;Sector público;416279,50;$339820
+16/11/2021;México;Innovatech;Sector público;1092024,36;$881758,8
+17/11/2021;Uruguay;NexTec;Instituciones educativas;36031,50;$28260
+17/11/2021;México;NexTec;Consumidores finales;93571,15;$79440
+18/11/2021;Perú;NeuroNet;Grandes clientes;44514,29;$36687,6
+19/11/2021;Uruguay;NeuroNet;Pequeñas y medianas empresas;124992,00;$112000
+20/11/2021;Argentina;NexTec;Sector público;87514,45;$47562,2
+21/11/2021;Argentina;NeuroNet;Sector público;83160,00;$70200
+21/11/2021;Chile;OmegaTech;Sector público;2115812,16;$1806604,8
+21/11/2021;Uruguay;NeuroNet;Pequeñas y medianas empresas;645300,00;$537750
+22/11/2021;Chile;OmegaTech;Sector público;9931,00;$7710,4
+23/11/2021;Chile;NexTec;Consumidores finales;328283,65;$303480
+23/11/2021;Argentina;NexTec;Sector público;3292128,00;$2547480
+23/11/2021;Argentina;Innovatech;Sector público;50760,98;$29512,2
+23/11/2021;Perú;NeuroNet;Pequeñas y medianas empresas;76146,00;$64750
+24/11/2021;Uruguay;NexTec;Consumidores finales;277809,23;$243302,4
+26/11/2021;Chile;OmegaTech;Sector público;90791,42;$47287,2
+27/11/2021;Chile;OmegaTech;Sector público;34356,54;$27886,8
+28/11/2021;Uruguay;NexTec;Instituciones educativas;53594,10;$38010
+28/11/2021;Chile;NexTec;Consumidores finales;170701,53;$163245,6
+28/11/2021;Argentina;OmegaTech;Consumidores finales;1231424,42;$1205347,2
+28/11/2021;Argentina;Cybernova;Sector público;45953,40;$26410
+28/11/2021;Chile;NexTec;Pequeñas y medianas empresas;1926499,68;$1638180
+29/11/2021;Uruguay;NexTec;Sector público;36753,60;$19760
+29/11/2021;Uruguay;Cybernova;Grandes clientes;3341,52;$2754
+30/11/2021;Argentina;NexTec;Consumidores finales;462456,35;$405014,4
+30/11/2021;Chile;Innovatech;Grandes clientes;19338,24;$14503,68
+2/12/2021;Perú;NexTec;Sector público;50438,39;$27713,4
+2/12/2021;Perú;NeuroNet;Sector público;639472,12;$533748,8
+3/12/2021;Argentina;Innovatech;Consumidores finales;47120,19;$39600
+4/12/2021;Uruguay;NeuroNet;Sector público;492184,00;$388960
+4/12/2021;Uruguay;NeuroNet;Sector público;578522,00;$499720
+5/12/2021;Uruguay;Innovatech;Sector público;108622,80;$54311,4
+6/12/2021;México;OmegaTech;Instituciones educativas;37050,00;$24700
+7/12/2021;México;NexTec;Pequeñas y medianas empresas;700245,00;$641250
+7/12/2021;Uruguay;NexTec;Grandes clientes;46444,54;$39138,66
+9/12/2021;Uruguay;Cybernova;Sector público;19627,00;$10330
+9/12/2021;Uruguay;Cybernova;Sector público;4981,00;$2930
+10/12/2021;México;NexTec;Instituciones educativas;70358,71;$47379,6
+10/12/2021;México;Innovatech;Sector público;18891,60;$10380
+10/12/2021;Argentina;OmegaTech;Pequeñas y medianas empresas;754092,36;$675710
+11/12/2021;Argentina;NeuroNet;Consumidores finales;496968,75;$435240
+14/12/2021;México;NeuroNet;Sector público;39237,00;$22550
+15/12/2021;México;OmegaTech;Instituciones educativas;29246,40;$20310
+15/12/2021;Perú;OmegaTech;Sector público;10291,12;$7990
+15/12/2021;México;OmegaTech;Grandes clientes;10733,40;$9045
+16/12/2021;Uruguay;NeuroNet;Sector público;205707,48;$115566
+17/12/2021;México;NexTec;Instituciones educativas;26133,57;$19358,2
+17/12/2021;Argentina;NexTec;Sector público;44654,59;$23257,6
+17/12/2021;Chile;NeuroNet;Pequeñas y medianas empresas;657316,62;$615465
+18/12/2021;Argentina;NeuroNet;Consumidores finales;35922,72;$22462,5
+19/12/2021;Uruguay;NexTec;Sector público;29697,00;$15630
+19/12/2021;Argentina;NexTec;Pequeñas y medianas empresas;922680,00;$873750
+19/12/2021;Chile;Cybernova;Pequeñas y medianas empresas;385968,00;$374000
+21/12/2021;México;Innovatech;Instituciones educativas;141876,99;$99562,8
+21/12/2021;México;Innovatech;Sector público;639922,50;$559260
+21/12/2021;México;NeuroNet;Sector público;8969,72;$6815,9
+22/12/2021;Uruguay;OmegaTech;Sector público;63861,61;$51835,725
+23/12/2021;Argentina;Innovatech;Sector público;20275,20;$10560
+23/12/2021;Uruguay;Cybernova;Sector público;7040,95;$5080,05
+25/12/2021;Perú;NexTec;Instituciones educativas;60073,20;$40048,8
+25/12/2021;Chile;OmegaTech;Sector público;3142,72;$2440
+29/12/2021;Perú;OmegaTech;Instituciones educativas;11092,95;$7470
+29/12/2021;México;Innovatech;Pequeñas y medianas empresas;715036,68;$692865
+29/12/2021;Perú;Innovatech;Grandes clientes;9100,08;$6894
+29/12/2021;Argentina;Innovatech;Grandes clientes;13429,92;$10278
+30/12/2021;Argentina;NeuroNet;Instituciones educativas;30991,80;$21980
+30/12/2021;Chile;Cybernova;Sector público;3503,64;$2910
+30/12/2021;México;Cybernova;Pequeñas y medianas empresas;678960,00;$615000
+2/01/2022;Uruguay;NeuroNet;Sector público;1215694,48;$960731,2
+3/01/2022;Argentina;Cybernova;Sector público;634155,83;$547775,8
+4/01/2022;Uruguay;OmegaTech;Pequeñas y medianas empresas;287481,60;$257600
+6/01/2022;Perú;NexTec;Instituciones educativas;21573,00;$15300
+6/01/2022;Chile;NeuroNet;Instituciones educativas;172859,68;$130954,3
+6/01/2022;Argentina;Cybernova;Sector público;81514,92;$43359
+6/01/2022;Perú;NeuroNet;Pequeñas y medianas empresas;230272,56;$195810
+6/01/2022;Argentina;Innovatech;Pequeñas y medianas empresas;2328868,80;$2156360
+7/01/2022;Argentina;Innovatech;Sector público;2207,80;$1695,7
+7/01/2022;México;NeuroNet;Grandes clientes;6305,76;$5436
+8/01/2022;Chile;NexTec;Sector público;37646,25;$28305,45
+9/01/2022;México;OmegaTech;Sector público;11191,95;$8415
+10/01/2022;México;NeuroNet;Sector público;552391,00;$436540
+12/01/2022;Perú;Cybernova;Instituciones educativas;24088,32;$18892,8
+12/01/2022;Uruguay;NexTec;Sector público;14714,70;$10725
+12/01/2022;Perú;NexTec;Sector público;157163,28;$81012
+12/01/2022;México;NeuroNet;Grandes clientes;117177,67;$99867,33
+13/01/2022;Argentina;Innovatech;Instituciones educativas;42713,33;$31995
+13/01/2022;Uruguay;Cybernova;Consumidores finales;96461,54;$84480
+13/01/2022;Chile;NexTec;Pequeñas y medianas empresas;794440,92;$727510
+15/01/2022;Argentina;Innovatech;Instituciones educativas;33499,35;$25670
+15/01/2022;México;Innovatech;Sector público;8771,14;$6665
+15/01/2022;México;OmegaTech;Sector público;107156,00;$89440
+15/01/2022;Uruguay;Cybernova;Sector público;52404,09;$27581,1
+16/01/2022;Uruguay;NeuroNet;Instituciones educativas;6762,00;$4900
+16/01/2022;México;NexTec;Sector público;69670,92;$37059
+17/01/2022;Perú;NeuroNet;Sector público;3835364,26;$2907273,2
+19/01/2022;Uruguay;NeuroNet;Sector público;10420,62;$8655
+19/01/2022;México;NeuroNet;Grandes clientes;13055,22;$11254,5
+20/01/2022;Perú;Cybernova;Sector público;18818,80;$10010
+20/01/2022;México;NexTec;Sector público;21700,80;$12330
+23/01/2022;Argentina;Innovatech;Sector público;239183,00;$189020
+23/01/2022;Perú;NeuroNet;Pequeñas y medianas empresas;582048,00;$505250
+23/01/2022;México;NexTec;Pequeñas y medianas empresas;2789743,32;$2499770
+24/01/2022;Chile;NexTec;Consumidores finales;41930,77;$18170
+26/01/2022;México;Cybernova;Sector público;698593,28;$589721,6
+28/01/2022;Uruguay;NexTec;Consumidores finales;96461,54;$84480
+29/01/2022;México;Cybernova;Instituciones educativas;40767,87;$31603
+29/01/2022;Chile;NeuroNet;Consumidores finales;10602,90;$6630
+30/01/2022;México;Cybernova;Instituciones educativas;21801,60;$15140
+30/01/2022;Chile;NeuroNet;Sector público;2837688,00;$2195830
+31/01/2022;Chile;NexTec;Sector público;38821,06;$21098,4
+31/01/2022;Perú;NeuroNet;Sector público;1248710,54;$1078620,4
+31/01/2022;Chile;NexTec;Grandes clientes;116953,69;$98556,48
+1/02/2022;Perú;NexTec;Instituciones educativas;29123,55;$20655
+2/02/2022;Chile;Cybernova;Pequeñas y medianas empresas;310840,38;$267045
+3/02/2022;Chile;Innovatech;Consumidores finales;608410,38;$595526,4
+3/02/2022;Perú;NeuroNet;Sector público;360899,00;$311740
+3/02/2022;México;OmegaTech;Sector público;1732777,20;$1462734
+3/02/2022;Uruguay;Cybernova;Pequeñas y medianas empresas;230310,00;$213250
+5/02/2022;Perú;Cybernova;Consumidores finales;1100296,18;$943759,2
+5/02/2022;ARGENTINA;OmegaTech;Sector público;68631,62;$50023,05
+7/02/2022;México;NexTec;Sector público;110840,04;$61577,8
+9/02/2022;Perú;OmegaTech;Sector público;134741,73;$75697,6
+9/02/2022;Perú;OmegaTech;Pequeñas y medianas empresas;535332,33;$459907,5
+10/02/2022;Perú;NexTec;Instituciones educativas;10637,55;$7091,7
+11/02/2022;Uruguay;Innovatech;Sector público;191383,92;$154533,6
+13/02/2022;Chill;Cybernova;Sector público;1275982,89;$1089509,2
+13/02/2022;Chile;Cybernova;Pequeñas y medianas empresas;474858,00;$425500
+14/02/2022;Perú;NexTec;Instituciones educativas;8822,05;$6838,8
+15/02/2022;Uruguay;OmegaTech;Sector público;14147,10;$10417,6
+15/02/2022;Argentina;Cybernova;Grandes clientes;21359,52;$17604
+17/02/2022;Argentina;NeuroNet;Sector público;26430,60;$14210
+18/02/2022;Argentina;OmegaTech;Sector público;92064,00;$71240
+18/02/2022;Chile;OmegaTech;Sector público;10298,82;$7910
+19/02/2022;México;NexTec;Instituciones educativas;69111,07;$47993,8
+19/02/2022;México;NexTec;Consumidores finales;196599,58;$177794,4
+19/02/2022;Perú;NexTec;Consumidores finales;13617,69;$8430
+20/02/2022;Chile;NexTec;Instituciones educativas;89489,11;$69371,4
+20/02/2022;Perú;Cybernova;Consumidores finales;215256,06;$184632
+20/02/2022;Uruguay;Cybernova;Grandes clientes;7317,93;$6031,26
+21/02/2022;Argentina;OmegaTech;Sector público;24225,60;$12360
+23/02/2022;México;NeuroNet;Sector público;43665,47;$36267
+24/02/2022;México;Innovatech;Sector público;4472,00;$2600
+25/02/2022;Uruguay;NeuroNet;Consumidores finales;267705,87;$262036,8
+25/02/2022;Chile;Cybernova;Sector público;5217,03;$4095
+26/02/2022;Perú;OmegaTech;Sector público;4338,00;$2410
+27/02/2022;Chile;NexTec;Consumidores finales;41930,77;$18170
+27/02/2022;Chile;Cybernova;Grandes clientes;30216,00;$22662
+1/03/2022;Argentina;Cybernova;Pequeñas y medianas empresas;683397,00;$575250
+2/03/2022;Chile;NexTec;Sector público;176612,40;$88306,2
+3/03/2022;México;Cybernova;Instituciones educativas;26486,40;$19840
+3/03/2022;México;Innovatech;Sector público;2322918,68;$2030113,8
+4/03/2022;Perú;NeuroNet;Sector público;121763,97;$64086,3
+5/03/2022;Argentina;NeuroNet;Sector público;12205,41;$9177
+7/03/2022;Chile;OmegaTech;Sector público;152027,13;$85408,5
+7/03/2022;Perú;OmegaTech;Sector público;88381,57;$50216,8
+8/03/2022;Chile;Innovatech;Sector público;16121,40;$8310
+8/03/2022;México;Cybernova;Sector público;50520,20;$27161,4
+8/03/2022;Perú;NexTec;Grandes clientes;5040,96;$4248
+9/03/2022;México;NeuroNet;Sector público;2750907,18;$2173969,2
+10/03/2022;Perú;Cybernova;Sector público;448875,00;$351000
+12/03/2022;Argentina;Cybernova;Consumidores finales;409961,54;$359040
+13/03/2022;Argentina;OmegaTech;Sector público;430452,75;$351390
+13/03/2022;Perú;NeuroNet;Sector público;52300,16;$28424
+14/03/2022;Perú;Cybernova;Consumidores finales;114349,04;$97080
+14/03/2022;Chile;NexTec;Sector público;801444,00;$684320
+14/03/2022;Perú;Cybernova;Pequeñas y medianas empresas;91182,00;$83500
+15/03/2022;Perú;NexTec;Sector público;16012,67;$12039,6
+15/03/2022;Chile;NexTec;Sector público;236766,60;$185140,8
+16/03/2022;México;NeuroNet;Consumidores finales;51202,38;$47865,6
+17/03/2022;Argentina;NexTec;Instituciones educativas;49584,77;$35166,5
+17/03/2022;Chile;Innovatech;Consumidores finales;362149,04;$354480
+18/03/2022;Argentina;NexTec;Sector público;23588,80;$12820
+19/03/2022;Perú;NeuroNet;Sector público;238609,00;$199160
+20/03/2022;Argentina;OmegaTech;Instituciones educativas;29104,20;$20424
+21/03/2022;México;OmegaTech;Sector público;438564,00;$354120
+21/03/2022;Argentina;Cybernova;Pequeñas y medianas empresas;282435,00;$247750
+22/03/2022;México;NexTec;Pequeñas y medianas empresas;313500,00;$275000
+22/03/2022;Perú;NeuroNet;Pequeñas y medianas empresas;356250,00;$312500
+23/03/2022;Argentina;NeuroNet;Instituciones educativas;9225,00;$6150
+24/03/2022;Chile;Cybernova;Consumidores finales;540027,12;$458472
+24/03/2022;Argentina;NexTec;Consumidores finales;921436,69;$842456,4
+25/03/2022;Chile;Cybernova;Grandes clientes;39926,22;$33645,69
+26/03/2022;Uruguay;Cybernova;Consumidores finales;183947,60;$171960
+27/03/2022;Uruguay;Cybernova;Instituciones educativas;78408,00;$52272
+27/03/2022;Perú;Cybernova;Sector público;6203,01;$5152
+28/03/2022;Perú;OmegaTech;Grandes clientes;89622,18;$77260,5
+30/03/2022;Chile;NeuroNet;Pequeñas y medianas empresas;233091,00;$218250
+30/03/2022;Uruguay;OmegaTech;Grandes clientes;53597,38;$41018,4
+31/03/2022;México;Cybernova;Sector público;196479,36;$165859,2
+1/04/2022;México;OmegaTech;Instituciones educativas;23083,80;$15389,2
+1/04/2022;Perú;OmegaTech;Grandes clientes;41900,40;$31425,3
+5/04/2022;Argentina;NeuroNet;Consumidores finales;427393,13;$374306,4
+6/04/2022;Argentina;Cybernova;Sector público;608501,60;$475820,8
+6/04/2022;Perú;OmegaTech;Pequeñas y medianas empresas;508032,00;$432000
+7/04/2022;Chile;Cybernova;Instituciones educativas;34736,10;$23630
+8/04/2022;Uruguay;NeuroNet;Instituciones educativas;29254,50;$21670
+8/04/2022;Perú;Innovatech;Pequeñas y medianas empresas;62916,00;$53500
+8/04/2022;Uruguay;Cybernova;Pequeñas y medianas empresas;875294,64;$828877,5
+9/04/2022;Argentina;Cybernova;Sector público;18082,26;$12915,9
+9/04/2022;Argentina;Cybernova;Sector público;52877,00;$27830
+9/04/2022;Argentina;Cybernova;Sector público;2015987,40;$1663989,6
+10/04/2022;Argentina;NeuroNet;Sector público;4366,32;$3390
+10/04/2022;Chile;OmegaTech;Grandes clientes;15229,20;$11655
+11/04/2022;Perú;OmegaTech;Grandes clientes;18540,00;$13905
+12/04/2022;Argentina;Innovatech;Sector público;3790,50;$2850
+12/04/2022;Argentina;Cybernova;Sector público;87783,70;$44787,6
+13/04/2022;Uruguay;OmegaTech;Sector público;2647798,79;$2161468,4
+14/04/2022;Argentina;NexTec;Consumidores finales;117973,56;$103320
+15/04/2022;Chile;Innovatech;Sector público;32183,72;$16938,8
+15/04/2022;Chile;OmegaTech;Pequeñas y medianas empresas;69402,00;$67250
+16/04/2022;Uruguay;Innovatech;Consumidores finales;861585,58;$560300
+16/04/2022;Chile;Innovatech;Sector público;69144,42;$36391,8
+16/04/2022;México;Cybernova;Sector público;54115,40;$43431,3
+17/04/2022;Perú;Innovatech;Grandes clientes;9609,60;$7920
+19/04/2022;Perú;Innovatech;Sector público;108706,50;$92820
+19/04/2022;Chile;OmegaTech;Sector público;120606,87;$63477,3
+20/04/2022;Perú;OmegaTech;Instituciones educativas;9811,80;$7110
+20/04/2022;Chile;NeuroNet;Instituciones educativas;11772,00;$8175
+20/04/2022;México;NexTec;Sector público;10396,54;$8635
+20/04/2022;Uruguay;Cybernova;Sector público;4981,00;$2930
+20/04/2022;México;OmegaTech;Sector público;474976,60;$415105,6
+21/04/2022;Perú;OmegaTech;Sector público;53257,60;$29920
+21/04/2022;Chile;NexTec;Sector público;14713,50;$8655
+22/04/2022;Argentina;Cybernova;Instituciones educativas;14203,73;$9863,7
+22/04/2022;Chile;NeuroNet;Sector público;706387,50;$524745
+22/04/2022;Argentina;OmegaTech;Pequeñas y medianas empresas;2771817,30;$2566497,5
+23/04/2022;Uruguay;Cybernova;Instituciones educativas;52167,38;$39975
+23/04/2022;México;OmegaTech;Consumidores finales;709061,54;$614520
+23/04/2022;Chile;Innovatech;Sector público;655551,75;$547170
+23/04/2022;Uruguay;Cybernova;Sector público;741157,46;$579551,7
+24/04/2022;Uruguay;Cybernova;Instituciones educativas;4766,85;$3210
+24/04/2022;Uruguay;NeuroNet;Instituciones educativas;18663,12;$13524
+26/04/2022;Chile;NeuroNet;Instituciones educativas;17604,90;$12620
+26/04/2022;México;NeuroNet;Sector público;15837,41;$13308,75
+27/04/2022;México;Cybernova;Instituciones educativas;28795,95;$21570
+27/04/2022;Uruguay;OmegaTech;Sector público;30001,00;$15790
+27/04/2022;México;Innovatech;Sector público;44358,80;$25790
+28/04/2022;Uruguay;NeuroNet;Pequeñas y medianas empresas;537085,08;$456705
+28/04/2022;Perú;Cybernova;Grandes clientes;73581,68;$56893,05
+30/04/2022;Chile;NexTec;Sector público;15620,85;$11745
+1/05/2022;Chile;Cybernova;Sector público;7388,85;$5675
+2/05/2022;Uruguay;NexTec;Pequeñas y medianas empresas;291186,72;$275745
+3/05/2022;Argentina;NexTec;Instituciones educativas;16257,30;$11530
+3/05/2022;México;Cybernova;Sector público;272888,00;$230360
+4/05/2022;Perú;OmegaTech;Sector público;3828826,68;$2902317,6
+5/05/2022;México;Innovatech;Sector público;438564,00;$354120
+7/05/2022;Argentina;Innovatech;Instituciones educativas;16257,30;$11530
+7/05/2022;México;NeuroNet;Consumidores finales;238072,15;$225086,4
+7/05/2022;Uruguay;OmegaTech;Sector público;385581,00;$333060
+9/05/2022;México;NexTec;Instituciones educativas;21801,60;$15140
+11/05/2022;Argentina;Cybernova;Sector público;23282,91;$16630,65
+13/05/2022;Chile;NexTec;Consumidores finales;806661,79;$691899,6
+13/05/2022;Chile;Cybernova;Pequeñas y medianas empresas;588984,00;$533500
+13/05/2022;Chile;Innovatech;Grandes clientes;38021,40;$31684,5
+14/05/2022;México;NeuroNet;Consumidores finales;601300,77;$505335,6
+14/05/2022;México;Cybernova;Sector público;1339477,23;$1093450,8
+14/05/2022;Chile;NeuroNet;Sector público;2323,00;$1952,1
+14/05/2022;Chile;Cybernova;Pequeñas y medianas empresas;364722,00;$341500
+16/05/2022;México;Cybernova;Sector público;11327,40;$6090
+16/05/2022;Argentina;NexTec;Sector público;53632,82;$28227,8
+16/05/2022;Chile;Cybernova;Pequeñas y medianas empresas;3396851,64;$3110670
+17/05/2022;Perú;NexTec;Instituciones educativas;9732,69;$7458
+17/05/2022;Chile;Cybernova;Sector público;670477,50;$579150
+17/05/2022;Perú;OmegaTech;Pequeñas y medianas empresas;750537,00;$702750
+19/05/2022;Argentina;NeuroNet;Sector público;573205,50;$457860
+19/05/2022;México;OmegaTech;Grandes clientes;4007,64;$3303
+20/05/2022;Uruguay;NeuroNet;Instituciones educativas;121712,10;$85412
+20/05/2022;Uruguay;Innovatech;Instituciones educativas;104731,11;$77578,6
+23/05/2022;Uruguay;OmegaTech;Sector público;9231,74;$7015
+24/05/2022;Chile;NeuroNet;Sector público;50803,20;$26460
+25/05/2022;Uruguay;NeuroNet;Sector público;39049,92;$21456
+26/05/2022;México;NeuroNet;Sector público;44721,60;$36300
+28/05/2022;Perú;NexTec;Instituciones educativas;13815,00;$9210
+28/05/2022;México;Innovatech;Consumidores finales;739423,13;$676044
+28/05/2022;Chile;Cybernova;Sector público;3658602,64;$2773284,8
+28/05/2022;Uruguay;Cybernova;Grandes clientes;88521,39;$74596,68
+29/05/2022;México;Cybernova;Instituciones educativas;108560,73;$81318,9
+29/05/2022;Uruguay;Cybernova;Sector público;7247,10;$5950
+30/05/2022;Perú;Innovatech;Instituciones educativas;28299,75;$19450
+30/05/2022;Perú;Cybernova;Consumidores finales;1040627,19;$892579,2
+30/05/2022;Argentina;NexTec;Sector público;4539,00;$2670
+30/05/2022;Argentina;Cybernova;Pequeñas y medianas empresas;655578,00;$635250
+31/05/2022;México;NexTec;Instituciones educativas;33001,20;$22000,8
+1/06/2022;México;NeuroNet;Pequeñas y medianas empresas;236215,98;$198835
+2/06/2022;Uruguay;NeuroNet;Instituciones educativas;37335,00;$26200
+2/06/2022;Chile;NexTec;Instituciones educativas;22484,70;$17430
+2/06/2022;Chile;NeuroNet;Instituciones educativas;81080,30;$62130,5
+2/06/2022;Argentina;NeuroNet;Sector público;53808,00;$28320
+2/06/2022;Uruguay;Cybernova;Pequeñas y medianas empresas;931003,47;$834232,5
+3/06/2022;Chile;Cybernova;Grandes clientes;20687,16;$17433
+4/06/2022;Chile;Cybernova;Sector público;281053,50;$239980
+5/06/2022;Chile;NeuroNet;Sector público;597408,00;$462280
+5/06/2022;México;NeuroNet;Sector público;301027,86;$230536,8
+7/06/2022;Argentina;NexTec;Consumidores finales;367106,25;$335640
+7/06/2022;Uruguay;Innovatech;Pequeñas y medianas empresas;344322,00;$305250
+8/06/2022;Perú;NexTec;Sector público;1282854,30;$972426
+8/06/2022;México;Innovatech;Sector público;61969,91;$34049,4
+9/06/2022;Perú;NeuroNet;Sector público;27968,00;$15200
+11/06/2022;Perú;Cybernova;Sector público;8107,96;$6295
+11/06/2022;Uruguay;Cybernova;Sector público;22954,39;$17630,1
+12/06/2022;México;NexTec;Instituciones educativas;3344,25;$2450
+12/06/2022;México;NexTec;Grandes clientes;12747,84;$9756
+13/06/2022;Argentina;NeuroNet;Instituciones educativas;159019,09;$116497,5
+13/06/2022;México;NexTec;Pequeñas y medianas empresas;766413,00;$686750
+13/06/2022;Uruguay;Cybernova;Grandes clientes;25542,00;$22275
+14/06/2022;México;OmegaTech;Sector público;322420,00;$254800
+15/06/2022;Chile;NexTec;Sector público;42613,20;$23940
+15/06/2022;Uruguay;OmegaTech;Sector público;21076,44;$17107,5
+15/06/2022;Argentina;OmegaTech;Pequeñas y medianas empresas;805194,00;$745550
+16/06/2022;Uruguay;OmegaTech;Instituciones educativas;27972,00;$20720
+17/06/2022;Uruguay;OmegaTech;Sector público;530621,00;$433160
+18/06/2022;México;OmegaTech;Grandes clientes;5961,24;$5139
+19/06/2022;Perú;OmegaTech;Instituciones educativas;19517,70;$15130
+20/06/2022;Uruguay;NexTec;Sector público;100989,50;$51004,8
+20/06/2022;México;Cybernova;Grandes clientes;8113,32;$6543
+21/06/2022;Perú;NeuroNet;Sector público;691012,00;$557960
+21/06/2022;México;Innovatech;Sector público;30184,00;$17150
+22/06/2022;Chile;Cybernova;Sector público;775789,00;$606632
+23/06/2022;Chile;OmegaTech;Consumidores finales;559322,99;$479749,2
+23/06/2022;México;Cybernova;Sector público;14732,68;$12380,4
+24/06/2022;México;NeuroNet;Consumidores finales;148707,69;$128880
+24/06/2022;Uruguay;Cybernova;Sector público;7247,10;$5950
+25/06/2022;México;NexTec;Sector público;36702,00;$20390
+25/06/2022;México;OmegaTech;Sector público;583580,20;$461188
+26/06/2022;Perú;NeuroNet;Sector público;43643,00;$22970
+26/06/2022;México;Innovatech;Sector público;102625,60;$58310
+30/06/2022;México;NeuroNet;Consumidores finales;44264,42;$40920
+2/07/2022;Perú;Innovatech;Instituciones educativas;101596,10;$69825,5
+2/07/2022;México;NexTec;Consumidores finales;398650,15;$345496,8
+2/07/2022;México;Innovatech;Sector público;9702,78;$4950,4
+2/07/2022;Chile;OmegaTech;Sector público;9457,73;$7264
+3/07/2022;Argentina;OmegaTech;Grandes clientes;43005,36;$32579,82
+4/07/2022;Argentina;NexTec;Sector público;1207,37;$969
+4/07/2022;Argentina;NeuroNet;Sector público;694077,30;$592644
+5/07/2022;Uruguay;Cybernova;Consumidores finales;112374,52;$94440
+5/07/2022;Chile;OmegaTech;Consumidores finales;1121816,19;$962217,6
+5/07/2022;Argentina;NexTec;Pequeñas y medianas empresas;509691,00;$466750
+7/07/2022;Uruguay;Cybernova;Sector público;104379,86;$55521,2
+8/07/2022;Argentina;Innovatech;Sector público;23588,80;$12820
+9/07/2022;Argentina;Innovatech;Sector público;8760,47;$7192,5
+10/07/2022;Chile;Innovatech;Pequeñas y medianas empresas;563304,00;$479000
+11/07/2022;México;NeuroNet;Pequeñas y medianas empresas;567600,00;$537500
+12/07/2022;Chile;Cybernova;Sector público;39255,90;$22823,2
+13/07/2022;Uruguay;NexTec;Sector público;490952,00;$414440
+13/07/2022;México;OmegaTech;Sector público;848172,50;$741260
+14/07/2022;Argentina;Innovatech;Sector público;15474,55;$11635
+14/07/2022;México;Cybernova;Sector público;55071,20;$29930
+14/07/2022;México;Cybernova;Pequeñas y medianas empresas;1356528,00;$1130440
+15/07/2022;Chile;NeuroNet;Consumidores finales;696634,62;$448500
+18/07/2022;Chile;Cybernova;Sector público;978236,00;$741520
+18/07/2022;Uruguay;NexTec;Sector público;1406988,24;$1111905,6
+18/07/2022;Chile;NexTec;Sector público;36720,12;$29470,4
+18/07/2022;Uruguay;NexTec;Grandes clientes;13369,46;$11659,41
+20/07/2022;Chile;Innovatech;Instituciones educativas;32280,00;$21520
+21/07/2022;México;Cybernova;Sector público;272888,00;$230360
+21/07/2022;Uruguay;NexTec;Sector público;80543,88;$44746,6
+23/07/2022;México;NexTec;Grandes clientes;26515,51;$20292,48
+23/07/2022;México;OmegaTech;Grandes clientes;53667,00;$45225
+24/07/2022;Perú;Innovatech;Sector público;10936,80;$5880
+25/07/2022;Argentina;OmegaTech;Sector público;13809,18;$10065
+25/07/2022;Perú;Cybernova;Grandes clientes;25932,00;$19449
+26/07/2022;Chile;NexTec;Consumidores finales;499497,92;$442108,8
+26/07/2022;Chile;NexTec;Pequeñas y medianas empresas;298662,00;$273500
+27/07/2022;Argentina;NexTec;Instituciones educativas;139966,47;$99267
+28/07/2022;Argentina;NexTec;Consumidores finales;367106,25;$335640
+28/07/2022;Argentina;Cybernova;Sector público;1730,54;$1315
+30/07/2022;Uruguay;Cybernova;Instituciones educativas;32670,00;$21780
+30/07/2022;Chile;Innovatech;Consumidores finales;389326,67;$372321,6
+31/07/2022;Perú;NexTec;Consumidores finales;406269,23;$261560
+1/08/2022;Uruguay;OmegaTech;Sector público;35182,71;$25623,825
+2/08/2022;México;OmegaTech;Grandes clientes;7749,28;$5866,7886
+2/08/2022;Chile;OmegaTech;Grandes clientes;296735,28;$267970,8
+4/08/2022;Chile;Cybernova;Sector público;632907,45;$558347,4
+5/08/2022;Uruguay;Cybernova;Instituciones educativas;29329,55;$22260,3335
+5/08/2022;Uruguay;Cybernova;Sector público;53370,58;$39906,72
+6/08/2022;México;NexTec;Consumidores finales;32680,65;$18125,8
+6/08/2022;México;Cybernova;Sector público;34325,36;$27942,8895
+6/08/2022;México;Cybernova;Sector público;139701,38;$118513,2
+6/08/2022;México;NeuroNet;Grandes clientes;664238,40;$518843
+7/08/2022;Argentina;OmegaTech;Consumidores finales;683567,50;$512583,5
+8/08/2022;Uruguay;Cybernova;Instituciones educativas;43215,41;$30612,7
+8/08/2022;Uruguay;NexTec;Pequeñas y medianas empresas;27530,03;$23081,184
+9/08/2022;Argentina;Innovatech;Sector público;13485,74;$10747,08
+9/08/2022;Uruguay;OmegaTech;Grandes clientes;26866,04;$22351,23
+11/08/2022;México;NexTec;Sector público;47041,10;$26980,05
+11/08/2022;México;OmegaTech;Sector público;33437,52;$21105,75
+11/08/2022;México;OmegaTech;Sector público;1177211,54;$765050
+12/08/2022;México;NexTec;Consumidores finales;223264,62;$215872,5
+12/08/2022;Uruguay;Cybernova;Pequeñas y medianas empresas;19844,34;$15552,45
+12/08/2022;Uruguay;Cybernova;Grandes clientes;723984,24;$577543,2
+13/08/2022;Chile;OmegaTech;Sector público;257219,87;$232285,872
+14/08/2022;Argentina;NeuroNet;Grandes clientes;699190,31;$576152,2
+15/08/2022;Uruguay;NeuroNet;Instituciones educativas;297930,84;$257955,6
+15/08/2022;Perú;OmegaTech;Instituciones educativas;487188,49;$413297,772
+15/08/2022;Argentina;OmegaTech;Sector público;42640,95;$33785,892
+16/08/2022;México;Cybernova;Sector público;83996,74;$64972,54
+16/08/2022;Argentina;Cybernova;Sector público;37282,32;$20907,8
+17/08/2022;Perú;NeuroNet;Sector público;346538,12;$262481,7
+17/08/2022;Argentina;NeuroNet;Grandes clientes;799812,32;$678506,688
+18/08/2022;Uruguay;NexTec;Pequeñas y medianas empresas;1099880,94;$942585,684
+19/08/2022;Uruguay;Innovatech;Instituciones educativas;1242496,21;$1083377,568
+19/08/2022;México;NexTec;Consumidores finales;441256,27;$363607,4
+20/08/2022;Chile;Cybernova;Pequeñas y medianas empresas;1157545,82;$943481,916
+21/08/2022;Chile;Innovatech;Pequeñas y medianas empresas;38193,39;$30238,2
+22/08/2022;Argentina;NeuroNet;Sector público;99185,42;$85000,8
+23/08/2022;México;Cybernova;Pequeñas y medianas empresas;47185,15;$39255,732
+24/08/2022;Argentina;NeuroNet;Sector público;132491,52;$119840
+26/08/2022;Chile;Cybernova;Sector público;92765,31;$50891,554
+28/08/2022;Perú;Innovatech;Sector público;88149,60;$75114
+29/08/2022;Uruguay;Cybernova;Instituciones educativas;2242760,89;$1933067,136
+29/08/2022;Argentina;Innovatech;Instituciones educativas;684018,00;$575392,5
+29/08/2022;Uruguay;Cybernova;Sector público;10526,85;$8250,128
+29/08/2022;México;Cybernova;Sector público;347980,67;$324723,6
+30/08/2022;Uruguay;NexTec;Consumidores finales;3489655,68;$2725803,6
+30/08/2022;Chile;Cybernova;Sector público;53806,64;$31578,054
+31/08/2022;Perú;NexTec;Consumidores finales;80714,76;$69282,5
+2/09/2022;Perú;OmegaTech;Instituciones educativas;294477,78;$260333,568
+2/09/2022;Argentina;Cybernova;Pequeñas y medianas empresas;96238,91;$50597,304
+5/09/2022;Uruguay;Cybernova;Consumidores finales;36417,93;$29838,876
+5/09/2022;Perú;OmegaTech;Pequeñas y medianas empresas;56809,75;$40670,7
+6/09/2022;Argentina;NeuroNet;Instituciones educativas;180943,62;$174672,792
+7/09/2022;Argentina;NexTec;Pequeñas y medianas empresas;1305309,89;$1289721,504
+8/09/2022;México;NexTec;Pequeñas y medianas empresas;48710,60;$28258,7
+9/09/2022;Chile;NeuroNet;Instituciones educativas;2042089,66;$1752852,6
+9/09/2022;Uruguay;NeuroNet;Instituciones educativas;38958,82;$21143,2
+9/09/2022;Uruguay;OmegaTech;Pequeñas y medianas empresas;3542,01;$2946,78
+10/09/2022;Argentina;Innovatech;Consumidores finales;490203,73;$433365,408
+11/09/2022;México;OmegaTech;Sector público;20498,53;$15518,9376
+11/09/2022;Perú;NexTec;Sector público;53464,69;$29653,338
+12/09/2022;Argentina;Cybernova;Sector público;677840,45;$571111,216
+12/09/2022;México;OmegaTech;Grandes clientes;49947,40;$42372
+13/09/2022;Perú;NexTec;Consumidores finales;521715,04;$416187,2
+13/09/2022;Chile;OmegaTech;Consumidores finales;613233,32;$534700,4
+13/09/2022;Argentina;NexTec;Sector público;115140,17;$58113,198
+14/09/2022;Argentina;OmegaTech;Instituciones educativas;39273,00;$26429
+16/09/2022;Chile;OmegaTech;Consumidores finales;742259,70;$686137,5
+16/09/2022;Uruguay;NeuroNet;Consumidores finales;49231,22;$41878,3662
+16/09/2022;Perú;NexTec;Consumidores finales;20804,62;$11053,1
+17/09/2022;Perú;Cybernova;Sector público;5279,86;$3135,1
+18/09/2022;Uruguay;Cybernova;Sector público;74580,23;$50696,172
+18/09/2022;Perú;Innovatech;Pequeñas y medianas empresas;20025,10;$11106,6
+19/09/2022;Perú;Cybernova;Pequeñas y medianas empresas;799337,90;$723009,7
+19/09/2022;Argentina;NexTec;Pequeñas y medianas empresas;526786,88;$465706,8
+20/09/2022;Chile;NexTec;Sector público;41591,22;$24128,5
+20/09/2022;Uruguay;NexTec;Sector público;31001,18;$21731,7
+22/09/2022;Argentina;NexTec;Grandes clientes;10908,59;$8549,3
+23/09/2022;Argentina;OmegaTech;Consumidores finales;11377,40;$9678,15
+23/09/2022;Perú;NeuroNet;Sector público;218049,93;$123655,62
+25/09/2022;Chile;Cybernova;Grandes clientes;27701,58;$20713,274
+28/09/2022;Argentina;NeuroNet;Instituciones educativas;47333,87;$24885,632
+28/09/2022;Chile;NeuroNet;Sector público;696755,62;$658547,55
+29/09/2022;Perú;NexTec;Consumidores finales;38078,08;$24034,875
+29/09/2022;México;Cybernova;Grandes clientes;31478,82;$16724,1
+1/10/2022;Argentina;NexTec;Sector público;978040,80;$934912,5
+2/10/2022;Chile;Innovatech;Sector público;409126,08;$400180
+2/10/2022;Chile;NeuroNet;Sector público;150389,61;$106532,196
+2/10/2022;Uruguay;OmegaTech;Pequeñas y medianas empresas;678317,85;$598408,2
+3/10/2022;Uruguay;Cybernova;Consumidores finales;9507,91;$7293,013
+4/10/2022;Uruguay;Cybernova;Consumidores finales;67693,31;$55464,22575
+4/10/2022;Argentina;Cybernova;Sector público;21491,71;$11299,2
+4/10/2022;Chile;NeuroNet;Grandes clientes;7463,41;$5435,6535
+5/10/2022;Chile;NeuroNet;Instituciones educativas;63677,59;$42852,216
+5/10/2022;Uruguay;OmegaTech;Sector público;3331,28;$2610,8
+7/10/2022;Argentina;Cybernova;Instituciones educativas;11758,53;$7992,9
+8/10/2022;Perú;NexTec;Sector público;757938,88;$741365,55
+8/10/2022;Argentina;Innovatech;Sector público;9646,08;$7376,58
+8/10/2022;Uruguay;NexTec;Grandes clientes;14235,72;$10997,46
+9/10/2022;Perú;Innovatech;Instituciones educativas;32851,31;$23518,6
+12/10/2022;Chile;NexTec;Instituciones educativas;3713,86;$3113,7
+12/10/2022;Chile;OmegaTech;Consumidores finales;719697,60;$658050
+12/10/2022;Perú;Cybernova;Sector público;1288636,15;$1027982,384
+12/10/2022;Argentina;NexTec;Sector público;672205,18;$586120,106
+12/10/2022;México;Cybernova;Pequeñas y medianas empresas;304730,50;$275632
+12/10/2022;Argentina;NexTec;Pequeñas y medianas empresas;22867,38;$16371
+13/10/2022;Argentina;OmegaTech;Sector público;183231,26;$140121,101
+13/10/2022;Chile;Innovatech;Pequeñas y medianas empresas;86405,82;$46394,13
+13/10/2022;Uruguay;Innovatech;Grandes clientes;244088,91;$209516,7
+14/10/2022;Uruguay;Cybernova;Sector público;2468600,93;$2307305,2
+15/10/2022;México;NeuroNet;Instituciones educativas;2340,27;$1814,399
+15/10/2022;Argentina;NeuroNet;Sector público;6684,11;$5816,52
+16/10/2022;Perú;Cybernova;Consumidores finales;39905,02;$30286,8315
+16/10/2022;Perú;NeuroNet;Pequeñas y medianas empresas;11863,47;$9004,05
+17/10/2022;Argentina;NexTec;Consumidores finales;585534,46;$467097,8
+18/10/2022;Argentina;Cybernova;Grandes clientes;25533,62;$20215,296
+19/10/2022;Argentina;Innovatech;Sector público;15597,58;$11475,75
+19/10/2022;México;OmegaTech;Sector público;166593,08;$86682,84
+21/10/2022;México;OmegaTech;Sector público;124208,33;$106858,0431
+21/10/2022;México;Innovatech;Sector público;45276,12;$34234,65
+21/10/2022;Chile;Innovatech;Grandes clientes;102249,23;$90393,6
+22/10/2022;Uruguay;NexTec;Instituciones educativas;842107,38;$778435,7
+22/10/2022;Argentina;NexTec;Consumidores finales;35509,31;$27466,9
+22/10/2022;Uruguay;NeuroNet;Consumidores finales;9297,41;$7131,55
+23/10/2022;Uruguay;NeuroNet;Sector público;113585,36;$95700,8
+23/10/2022;Perú;NeuroNet;Pequeñas y medianas empresas;55548,34;$29511,777
+24/10/2022;Chile;OmegaTech;Consumidores finales;7167,72;$5243
+24/10/2022;México;NexTec;Consumidores finales;73851,18;$39653,13
+24/10/2022;Chile;OmegaTech;Sector público;4065486,12;$3110782,324
+24/10/2022;Uruguay;OmegaTech;Pequeñas y medianas empresas;11045,86;$9260,85
+24/10/2022;Perú;Innovatech;Grandes clientes;13838,53;$12042,315
+25/10/2022;Uruguay;Cybernova;Consumidores finales;19947,93;$10710,7
+25/10/2022;Chile;NexTec;Grandes clientes;23002,85;$13193,1
+28/10/2022;Argentina;NeuroNet;Consumidores finales;253533,98;$202251,4
+28/10/2022;México;NeuroNet;Consumidores finales;616970,88;$540617,5
+28/10/2022;Chile;NeuroNet;Grandes clientes;2957127,92;$2674753,9
+28/10/2022;Argentina;OmegaTech;Grandes clientes;44446,62;$19441,9
+29/10/2022;Perú;OmegaTech;Instituciones educativas;740508,88;$631002,112
+30/10/2022;Perú;Cybernova;Sector público;102249,23;$90393,6
+31/10/2022;México;Cybernova;Consumidores finales;43213,94;$33815,21
+31/10/2022;Perú;NexTec;Consumidores finales;11239,07;$7094,1
+31/10/2022;Chile;Cybernova;Pequeñas y medianas empresas;23109,70;$16199,8
+1/11/2022;Perú;Cybernova;Grandes clientes;3007949,28;$2349538,1
+2/11/2022;Perú;NeuroNet;Pequeñas y medianas empresas;41150,32;$22575,288
+5/11/2022;Perú;Innovatech;Sector público;1323633,17;$1154123,828
+5/11/2022;Perú;NexTec;Sector público;123970,91;$105455,4336
+6/11/2022;México;OmegaTech;Sector público;30870,96;$22100,85
+7/11/2022;Perú;NexTec;Sector público;329490,80;$285738,15
+7/11/2022;Chile;Cybernova;Grandes clientes;644915,01;$637213,248
+8/11/2022;Chile;NexTec;Consumidores finales;382552,94;$333561,8
+8/11/2022;Perú;Cybernova;Sector público;1836743,83;$1565125,38
+8/11/2022;Argentina;Innovatech;Grandes clientes;244128,60;$228177,5
+9/11/2022;Perú;Innovatech;Grandes clientes;1166313,95;$1009822,344
+10/11/2022;Argentina;Innovatech;Instituciones educativas;72749,52;$53524,6635
+13/11/2022;Argentina;Cybernova;Instituciones educativas;117490,44;$65888,246
+13/11/2022;Argentina;NeuroNet;Instituciones educativas;142826,23;$80996,432
+15/11/2022;Chile;OmegaTech;Sector público;567452,27;$492101,025
+16/11/2022;Chile;Innovatech;Instituciones educativas;11275,80;$7588,119
+16/11/2022;Argentina;Cybernova;Consumidores finales;202866,96;$165350,952
+16/11/2022;Perú;OmegaTech;Sector público;1352541,86;$1165774,844
+16/11/2022;Perú;Innovatech;Pequeñas y medianas empresas;503349,48;$455285
+16/11/2022;Perú;Cybernova;Pequeñas y medianas empresas;9351,38;$7317,516
+17/11/2022;Argentina;OmegaTech;Pequeñas y medianas empresas;14995,93;$11146,832
+17/11/2022;Uruguay;Innovatech;Pequeñas y medianas empresas;22641,09;$18836,28
+18/11/2022;México;NeuroNet;Sector público;28016,44;$15204,7
+18/11/2022;Perú;OmegaTech;Sector público;97587,84;$76226,8
+19/11/2022;Perú;NexTec;Sector público;10916,75;$8463,7
+19/11/2022;Chile;Innovatech;Pequeñas y medianas empresas;73257,74;$51353,366
+19/11/2022;México;NexTec;Pequeñas y medianas empresas;208395,55;$190240,008
+20/11/2022;Uruguay;OmegaTech;Consumidores finales;14434,75;$9020,1
+20/11/2022;México;Cybernova;Sector público;94858,45;$74227,398
+21/11/2022;México;Cybernova;Instituciones educativas;228171,42;$197556,24
+21/11/2022;Uruguay;NeuroNet;Grandes clientes;7757,00;$6453,4482
+22/11/2022;Perú;Innovatech;Sector público;25679,14;$13225,2
+23/11/2022;Argentina;Cybernova;Sector público;46285,40;$38805,69
+23/11/2022;Perú;NeuroNet;Pequeñas y medianas empresas;4740,32;$2782
+24/11/2022;Chile;NeuroNet;Instituciones educativas;283768,22;$280379,376
+25/11/2022;Chile;Cybernova;Sector público;5530,05;$4381,65
+25/11/2022;Perú;NexTec;Grandes clientes;4598,28;$2578,7
+26/11/2022;Argentina;NexTec;Sector público;44446,62;$19441,9
+26/11/2022;Perú;NexTec;Sector público;32028,96;$24248,34
+27/11/2022;Chile;Innovatech;Sector público;724400,82;$615517,5
+27/11/2022;Chile;Innovatech;Pequeñas y medianas empresas;187209,14;$94487,634
+27/11/2022;Chile;Cybernova;Pequeñas y medianas empresas;28075,58;$21228,8
+28/11/2022;Argentina;NeuroNet;Pequeñas y medianas empresas;2462293,80;$2172221,766
+29/11/2022;México;Cybernova;Sector público;129069,81;$68572,341
+29/11/2022;Chile;OmegaTech;Sector público;12937,73;$9819,39
+29/11/2022;Chile;Cybernova;Pequeñas y medianas empresas;161148,76;$91387,095
+30/11/2022;Chile;Cybernova;Instituciones educativas;93684,46;$53731,976
+1/12/2022;Argentina;NexTec;Instituciones educativas;17088,68;$8891,7
+1/12/2022;México;NexTec;Consumidores finales;53551,42;$29062,698
+1/12/2022;Uruguay;Cybernova;Sector público;5343,42;$4545,36
+2/12/2022;Uruguay;Innovatech;Sector público;2915961,61;$2326147,044
+3/12/2022;Argentina;Cybernova;Consumidores finales;475807,50;$375570
+3/12/2022;Chile;Innovatech;Sector público;434559,23;$384172,8
+3/12/2022;México;OmegaTech;Sector público;456279,92;$375987,3
+3/12/2022;México;NeuroNet;Sector público;55438,17;$30413,68
+4/12/2022;Uruguay;Innovatech;Instituciones educativas;121209,98;$103875,6
+4/12/2022;Uruguay;Cybernova;Sector público;849530,64;$732222,4
+5/12/2022;México;OmegaTech;Instituciones educativas;96652,92;$89345
+5/12/2022;Perú;NexTec;Sector público;16973,43;$12882,372
+5/12/2022;México;OmegaTech;Pequeñas y medianas empresas;250972,60;$198100,656
+7/12/2022;Chile;NexTec;Grandes clientes;54274,53;$51216,192
+9/12/2022;México;Cybernova;Instituciones educativas;52559,85;$37628,155
+9/12/2022;Perú;NexTec;Sector público;383877,98;$379293,6
+9/12/2022;Argentina;NexTec;Pequeñas y medianas empresas;25004,13;$13717,4
+10/12/2022;México;Innovatech;Sector público;252925,54;$213101,2
+11/12/2022;Perú;NexTec;Instituciones educativas;30850,45;$21853,68
+11/12/2022;Perú;NexTec;Sector público;464877,84;$378908,4
+13/12/2022;México;OmegaTech;Pequeñas y medianas empresas;299381,10;$265092,5
+13/12/2022;Argentina;Innovatech;Pequeñas y medianas empresas;332310,00;$294250
+13/12/2022;Argentina;Cybernova;Pequeñas y medianas empresas;377625,00;$334375
+14/12/2022;Chile;NexTec;Sector público;9778,50;$6580,5
+14/12/2022;Uruguay;NeuroNet;Sector público;572428,74;$490565,04
+16/12/2022;Uruguay;Innovatech;Instituciones educativas;976722,89;$901428,348
+16/12/2022;Perú;OmegaTech;Instituciones educativas;42321,79;$36000,8883
+16/12/2022;Uruguay;Cybernova;Consumidores finales;194984,45;$183997,2
+16/12/2022;Chile;NexTec;Consumidores finales;83112,48;$55931,04
+16/12/2022;Chile;Cybernova;Sector público;6575,19;$5512,64
+16/12/2022;Chile;NexTec;Sector público;94999,51;$82668,735
+16/12/2022;Chile;Cybernova;Pequeñas y medianas empresas;247076,46;$233527,5
+17/12/2022;Uruguay;NeuroNet;Pequeñas y medianas empresas;56813,22;$43889,688
+18/12/2022;Perú;OmegaTech;Instituciones educativas;208268,12;$177469,344
+19/12/2022;México;NeuroNet;Consumidores finales;24468,83;$16466,444
+19/12/2022;Argentina;Cybernova;Sector público;44414,42;$33625,071
+20/12/2022;Perú;NeuroNet;Consumidores finales;453036,71;$400507,848
+20/12/2022;Chile;Cybernova;Sector público;645011,70;$509128,256
+20/12/2022;México;NeuroNet;Pequeñas y medianas empresas;538513,92;$462240
+21/12/2022;México;Innovatech;Sector público;36820,27;$25284,1
+21/12/2022;Argentina;Cybernova;Grandes clientes;31009,77;$23186,9
+22/12/2022;Perú;NeuroNet;Sector público;66690,96;$57245
+23/12/2022;Perú;NeuroNet;Sector público;927812,32;$886898,925
+23/12/2022;Argentina;NexTec;Pequeñas y medianas empresas;19167,20;$13820,013
+24/12/2022;Argentina;Cybernova;Instituciones educativas;56049,62;$29778,1
+25/12/2022;Perú;Cybernova;Consumidores finales;2136946,64;$1780468,872
+25/12/2022;Uruguay;Cybernova;Sector público;4628,30;$3627,3
+25/12/2022;Uruguay;NeuroNet;Pequeñas y medianas empresas;16142,95;$12470,85
+26/12/2022;Perú;Innovatech;Sector público;19652,40;$14878,35
+28/12/2022;México;Cybernova;Sector público;4017,93;$3049,5
+28/12/2022;Perú;OmegaTech;Sector público;93050,72;$47922,732
+28/12/2022;Argentina;Innovatech;Pequeñas y medianas empresas;2806666,72;$2312771,188
+29/12/2022;México;NexTec;Sector público;125051,97;$110552,4
+30/12/2022;México;Cybernova;Instituciones educativas;34114,74;$18124,516
+30/12/2022;Argentina;OmegaTech;Grandes clientes;73566,12;$71957,5
+31/12/2022;Chile;OmegaTech;Instituciones educativas;913280,71;$599521
